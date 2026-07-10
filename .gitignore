@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+.DS_Store
+*.log
+data/research/*-raw.json
+data/research/*-candidates.json
+data/research/*-scored.json

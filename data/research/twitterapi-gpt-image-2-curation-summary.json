@@ -1,0 +1,20 @@
+{
+  "generatedAt": "2026-07-10T15:52:46.635Z",
+  "source": "twitterapi.io advanced_search",
+  "rawCandidates": 591,
+  "scoredTotal": 591,
+  "acceptedInput": 121,
+  "selectedPrompts": 56,
+  "authors": 27,
+  "featured": 12,
+  "categoryCounts": {
+    "architecture-interior": 4,
+    "character-design": 6,
+    "infographic-typography": 17,
+    "product-campaign": 18,
+    "reference-image-edit": 6,
+    "storyboard-video-pipeline": 2,
+    "technical-drawing": 1,
+    "travel-visual": 2
+  }
+}
