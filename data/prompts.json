@@ -3537,5 +3537,318 @@
         }
       ]
     }
+  },
+  {
+    "id": 57,
+    "model": "gpt-image-2",
+    "title": "Autumn staircase Zen wallpaper poster",
+    "description": "A newly collected GPT Image 2 prompt translated from a public Chinese post and normalized into English for a restrained seasonal poster composition.",
+    "content": "Create an Eastern Zen minimalist poster with a high-contrast seasonal aesthetic. A single figure walks slowly upward along a long staircase. The emotional theme is clear autumn air, quiet upward movement, and life within stillness. Use lemon-yellow ginkgo leaves, deep indigo-blue staircase shadows, cool white walls, and a dark ink-gray figure silhouette. Compose the stairs with strong depth, extending upward through the frame; place the figure in the lower middle and scatter only a few striking ginkgo leaves across the steps and surrounding negative space. Keep the wall and background cool white, reserve indigo for shadow and spatial layering, use lemon yellow only as an accent, and avoid an overall yellow cast. Bright natural light, light paper texture, crisp edges, minimal grain. Vertical 9:16. Keep the staircase exceptionally simple and the overall image airy and transparent.",
+    "sourceLink": "https://x.com/liyue_ai/status/2075456342589096113",
+    "sourcePublishedAt": "2026-07-10T05:45:26.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HM2AiGOaMAAsfmD.jpg"
+    ],
+    "author": {
+      "name": "@liyue_ai",
+      "link": "https://x.com/liyue_ai"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 57,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075456342589096113",
+      "prompt_source": "translated_normalized_from_tweet_text_prompt",
+      "retweetCount": 9,
+      "replyCount": 7,
+      "likeCount": 54,
+      "quoteCount": 0,
+      "viewCount": 4219,
+      "bookmarkCount": 43,
+      "model_evidence": "gpt-image-2"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 17,
+          "title": "Infographic & Typography",
+          "slug": "infographic-typography"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 59,
+          "title": "Marketing Layout",
+          "slug": "marketing-layout"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 62,
+          "title": "Commercial Design, UI & Posters",
+          "slug": "commercial-design-ui-posters"
+        }
+      ]
+    }
+  },
+  {
+    "id": 58,
+    "model": "gpt-image-2",
+    "title": "Period-drama heroine portrait and turnaround sheet",
+    "description": "A source-backed GPT Image 2 character-sheet prompt translated into English for a photoreal Chinese period-drama heroine with a close portrait and three-view turnaround.",
+    "content": "Create a photoreal Chinese period-drama heroine character sheet for an affluent young woman from an elite historical romance. She has a refined oval face, a full midface, a narrow lower face, a crisp delicate jawline, and a small slightly elongated pointed chin. Her skin is fair and translucent with subtle real texture, gentle retouching, and a soft dewy finish, never plastic or CGI. Add a slim straight nose with a small highlight, peach-orange blush, glossy coral-pink lips, very large clear almond eyes with watery catchlights, soft under-eye volume, peach-orange lower-lid makeup, and long individually defined curled lashes. Long black center-parted hair with a few wisps across the forehead. On the left, show a close frontal portrait looking into the camera against a softly blurred pale-blue background with cool diffused light and dreamy shallow depth of field. On the right, show a standing three-view turnaround against a natural sky-blue background: front, side, and back. Keep the result strictly realistic: no illustration, anime, plastic skin, virtual-human CGI, or digital-avatar appearance.",
+    "sourceLink": "https://x.com/liyue_ai/status/2075591495890166059",
+    "sourcePublishedAt": "2026-07-10T14:42:29.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HM35CFEbAAAz3R8.jpg",
+      "https://pbs.twimg.com/media/HM35C-kbYAAXFMS.jpg"
+    ],
+    "author": {
+      "name": "@liyue_ai",
+      "link": "https://x.com/liyue_ai"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 58,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075591495890166059",
+      "prompt_source": "translated_normalized_from_tweet_text_prompt",
+      "retweetCount": 1,
+      "replyCount": 1,
+      "likeCount": 6,
+      "quoteCount": 1,
+      "viewCount": 1859,
+      "bookmarkCount": 8,
+      "model_evidence": "gpt-image-2"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 21,
+          "title": "Cinematic Realism",
+          "slug": "cinematic-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": 59,
+    "model": "gpt-image-2",
+    "title": "Monochrome football watch editorial",
+    "description": "A new GPT Image 2 identity-preserving sports portrait prompt built around studio lighting, a national jersey, and restrained watch-campaign styling.",
+    "content": "Create an ultra-realistic black-and-white editorial portrait of the uploaded person. Preserve the exact face, hairstyle, facial proportions, skin tone, expression, and identity with 100% consistency. The subject wears a premium national football jersey with minimal branding, posed in a thoughtful, contemplative stance with one hand resting against the chin and the wrist slightly raised to showcase a minimalist luxury black leather watch with a clean analog dial. Eyes looking downward, calm and focused expression. Shot in a professional photography studio against a seamless charcoal-gray background. Dramatic Rembrandt lighting with soft directional light from camera left, deep cinematic shadows, high contrast, subtle rim light defining the jawline and shoulders, beautiful skin texture, razor-sharp focus. Fashion editorial aesthetic, luxury sports campaign, monochrome fine-art photography, medium close-up portrait, 85mm lens, f/1.8, shallow depth of field, natural film grain, HDR, ultra-detailed, photorealistic, premium watch advertisement quality, Vogue x GQ x Nike campaign style, 8K resolution. Negative prompt: cartoon, painting, CGI, low quality, blurry, oversaturated, extra fingers, deformed hands, duplicate limbs, distorted face, watermark, text, logo, frame, noise.",
+    "sourceLink": "https://x.com/Taaruk_/status/2075786938326639006",
+    "sourcePublishedAt": "2026-07-11T03:39:07.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HM6tNSibgAAiELH.jpg",
+      "https://pbs.twimg.com/media/HM6tNWQbYAAJv-Z.jpg",
+      "https://pbs.twimg.com/media/HM6tNgSbwAAAGNc.jpg",
+      "https://pbs.twimg.com/media/HM6tNlEaIAA8Zfk.jpg"
+    ],
+    "author": {
+      "name": "@Taaruk_",
+      "link": "https://x.com/Taaruk_"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 59,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075786938326639006",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 1,
+      "replyCount": 8,
+      "likeCount": 9,
+      "quoteCount": 0,
+      "viewCount": 213,
+      "bookmarkCount": 0,
+      "model_evidence": "gpt-image-2"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 13,
+          "title": "Reference Image Edit",
+          "slug": "reference-image-edit"
+        }
+      ],
+      "styles": [
+        {
+          "id": 21,
+          "title": "Cinematic Realism",
+          "slug": "cinematic-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 61,
+          "title": "Directed Editing & Input Control",
+          "slug": "directed-editing-input-control"
+        }
+      ]
+    },
+    "needReferenceImages": true
+  },
+  {
+    "id": 60,
+    "model": "gpt-image-2",
+    "title": "Sunlit Scandinavian knitwear portrait",
+    "description": "A fresh GPT Image 2 lifestyle portrait prompt combining soft window light, natural skin detail, and a warm Scandinavian editorial mood.",
+    "content": "Dreamy sunlit portrait of a young woman with long soft light-brown hair, delicate facial features, fair luminous skin, natural rosy lips, and expressive hazel-green eyes. Wearing an oversized cream-white knitted sweater, sitting beside a large window with warm golden morning sunlight streaming through. Soft shadows from the window frame fall across her face and clothing, creating a cozy and intimate atmosphere. Gentle wind slightly tousling her hair, relaxed pose with one hand resting near her face, minimal makeup, natural beauty, Scandinavian-inspired aesthetic, soft pastel tones, shallow depth of field, creamy bokeh, cinematic lighting, ultra-realistic skin texture, editorial fashion photography, emotional storytelling, serene and elegant mood, photorealistic, 8K HDR, 85mm lens, f/1.4. Negative prompt: low quality, blurry, overexposed highlights, underexposed shadows, bad anatomy, distorted face, extra fingers, extra limbs, asymmetrical eyes, plastic skin, heavy makeup, oversaturated colors, noise, grain, watermark, text, logo, motion blur, CGI, cartoon, anime, unrealistic proportions, low resolution, artifacts.",
+    "sourceLink": "https://x.com/Aqsahere_/status/2075778756128407802",
+    "sourcePublishedAt": "2026-07-11T03:06:36.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HM6lxwAaUAA52cx.jpg",
+      "https://pbs.twimg.com/media/HM6lxyLaAAAbbG4.jpg"
+    ],
+    "author": {
+      "name": "@Aqsahere_",
+      "link": "https://x.com/Aqsahere_"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 60,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075778756128407802",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 2,
+      "replyCount": 15,
+      "likeCount": 18,
+      "quoteCount": 0,
+      "viewCount": 189,
+      "bookmarkCount": 0,
+      "model_evidence": "gpt-image-2"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 23,
+          "title": "Editorial Fashion",
+          "slug": "editorial-fashion"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": 61,
+    "model": "gpt-image-2",
+    "title": "Red marker illustration-over-photo edit",
+    "description": "A newly published GPT Image 2 reference edit that keeps the subject photorealistic while redrawing the environment as loose monochrome marker art.",
+    "content": "Transform the original mirror selfie into a minimalist illustration-over-photo artwork. Keep the person completely photorealistic while replacing the surrounding environment with bold hand-drawn red marker line art. Outline the ornate vintage mirror frame, hallway, elevator, plants, tray, bottle, wicker basket, and foreground objects using loose sketchy red ink lines on a clean white background. Preserve the original pose, outfit (black baseball cap, beige overshirt, white T-shirt), facial expression, lighting, and composition. Create a high-contrast mixed-media effect where only the subject remains realistic and everything else appears as an expressive monochrome red line drawing. Modern editorial aesthetic, clean negative space, minimalist, artistic, high detail. Negative prompt: full illustration, anime, cartoon character, low quality, blurry, distorted face, extra limbs, duplicated objects, colored background, watercolor, heavy shading, text, logo, watermark, messy lines, oversaturated colors.",
+    "sourceLink": "https://x.com/Kashberg_0/status/2075791794688675870",
+    "sourcePublishedAt": "2026-07-11T03:58:24.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HM6xn2HbkAAE_bo.jpg",
+      "https://pbs.twimg.com/media/HM6xoVvbUAAPpxH.jpg"
+    ],
+    "author": {
+      "name": "@Kashberg_0",
+      "link": "https://x.com/Kashberg_0"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 61,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075791794688675870",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 0,
+      "replyCount": 3,
+      "likeCount": 3,
+      "quoteCount": 0,
+      "viewCount": 53,
+      "bookmarkCount": 0,
+      "model_evidence": "gpt-image-2"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 13,
+          "title": "Reference Image Edit",
+          "slug": "reference-image-edit"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 61,
+          "title": "Directed Editing & Input Control",
+          "slug": "directed-editing-input-control"
+        }
+      ]
+    },
+    "needReferenceImages": true
   }
 ]
