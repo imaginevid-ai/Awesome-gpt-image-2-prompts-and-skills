@@ -101,7 +101,7 @@ A cinematic poster for "{argument name="product" default="a glass AI camera"}" w
 |--------|-------|
 | إجمالي التعليمات | **66** |
 | مميز | **12** |
-| آخر تحديث | **الأحد، ١٢ يوليو ٢٠٢٦ في ٦:٣٠:٠٨ ص UTC** |
+| آخر تحديث | **الأحد، ١٢ يوليو ٢٠٢٦ في ٩:٤٨:٠٨ ص UTC** |
 
 </div>
 
@@ -3315,6 +3315,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[إرسال تعليمة](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ضع نجمة للمستودع](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>تم توليد README هذا تلقائيا. آخر تحديث: 2026-07-12T06:30:08.649Z</sub>
+<sub>تم توليد README هذا تلقائيا. آخر تحديث: 2026-07-12T09:48:08.525Z</sub>
 
 </div>

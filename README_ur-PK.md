@@ -101,7 +101,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | کل پرامپٹس | **66** |
 | نمایاں | **12** |
-| آخری اپ ڈیٹ | **اتوار، 12 جولائی، 2026 کو 6:30:08 AM UTC** |
+| آخری اپ ڈیٹ | **اتوار، 12 جولائی، 2026 کو 9:48:08 AM UTC** |
 
 </div>
 
@@ -3315,6 +3315,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[پرامپٹ جمع کریں](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[اس ریپو کو Star کریں](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-12T06:30:08.670Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-12T09:48:08.543Z</sub>
 
 </div>
