@@ -3850,5 +3850,311 @@
       ]
     },
     "needReferenceImages": true
+  },
+  {
+    "id": 62,
+    "model": "gpt-image-2",
+    "title": "Autumn ferry-crossing period-fantasy heroine",
+    "description": "A source-backed GPT Image 2 period-fantasy portrait translated and normalized from Chinese into English, with a restrained autumn narrative and poster-level character detail.",
+    "content": "Create a high-resolution vertical 9:16 Chinese period-fantasy portrait with the quiet narrative mood of an autumn riverside ferry crossing. The image should feel gentle, thoughtful, slightly melancholic, and complete enough for a refined heroine character poster. Feature an adult East Asian woman, visually 20 to 28, with natural East Asian features, a classical oval face, soft almond eyes, an introspective gentle gaze, a refined natural nose, and delicate soft lips. Avoid Westernized features, juvenile styling, influencer aesthetics, or exaggerated glamour. Give her translucent detailed skin with a soft warm-gold autumn glow. Use a light apricot-pink makeup look: sheer refined base, soft apricot and warm-brown eyeshadow, naturally long lashes, subtle under-eye highlight, apricot blush, and soft rose-milk-tea lips. Long smooth black hair is half-up, lightly windblown at the riverside, with a restrained pale-gold hairpin, small pearl tassels, warm jade accents, and delicate earrings. Dress her in a medium-luxury layered xianxia gown in apricot white, warm ivory, and champagne gold: light gauze, silk-like chiffon, translucent outer layers, subtle floral, vine, cloud, or maple embroidery, a refined gold waist ornament, pearl drops, and soft tassels. Place her by an ancient autumn ferry, stone riverbank, fallen leaves, maple foliage, and soft river reflections. Frame a gentle front three-quarter upper-body portrait; one hand can hold a sleeve, scarf layer, or small prop while the other rests naturally by her waist. Use warm late-afternoon light, shallow depth of field, soft background bokeh, fine hair detail, clear layered clothing, and a story-rich but never gloomy autumn atmosphere.",
+    "sourceLink": "https://x.com/liyue_ai/status/2075951932401959182",
+    "sourcePublishedAt": "2026-07-11T14:34:44.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HM9C_jVakAAiFoR.jpg"
+    ],
+    "author": {
+      "name": "@liyue_ai",
+      "link": "https://x.com/liyue_ai"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 62,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075951932401959182",
+      "prompt_source": "translated_normalized_from_tweet_text_prompt",
+      "retweetCount": 4,
+      "replyCount": 6,
+      "likeCount": 23,
+      "quoteCount": 1,
+      "viewCount": 3087,
+      "bookmarkCount": 13,
+      "model_evidence": "gpt-image-2"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 23,
+          "title": "Editorial Fashion",
+          "slug": "editorial-fashion"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": 63,
+    "model": "gpt-image-2",
+    "title": "Goldfish lantern Zen wallpaper poster",
+    "description": "A public GPT Image 2 wallpaper prompt translated into English for a bright, high-contrast East Asian poster with deliberate color separation and generous negative space.",
+    "content": "Create a vertical 9:16 East Asian Zen minimalist poster with a high-contrast, celebratory look. A small period-costumed figure stands beside a pool, quietly observing a vivid orange-red goldfish lantern. The emotional theme is lightness, festivity, curiosity, and contemplation. Use the lantern as the central visual in the middle of the composition; place the smaller figure slightly below and to one side, surrounded by abundant bright warm-white negative space. Use aqua and jade blue for the water and atmosphere, vivid orange-red only for the lantern and a small reflection, and dark blue-green for the figure silhouette. Keep orange and blue cleanly separated instead of contaminating the whole palette. Soft transparent light, light paper texture, a faint water reflection, crisp edges, and a cheerful luminous finish. The goldfish lantern must be immediately legible and visually dominant; keep the figure small and never let the image become dark.",
+    "sourceLink": "https://x.com/liyue_ai/status/2075873741855445167",
+    "sourcePublishedAt": "2026-07-11T09:24:02.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HM770FDa0AA7teD.jpg"
+    ],
+    "author": {
+      "name": "@liyue_ai",
+      "link": "https://x.com/liyue_ai"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 63,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075873741855445167",
+      "prompt_source": "translated_normalized_from_tweet_text_prompt",
+      "retweetCount": 1,
+      "replyCount": 3,
+      "likeCount": 8,
+      "quoteCount": 0,
+      "viewCount": 1725,
+      "bookmarkCount": 7,
+      "model_evidence": "gpt-image-2"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 17,
+          "title": "Infographic & Typography",
+          "slug": "infographic-typography"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 59,
+          "title": "Marketing Layout",
+          "slug": "marketing-layout"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 62,
+          "title": "Commercial Design, UI & Posters",
+          "slug": "commercial-design-ui-posters"
+        }
+      ]
+    }
+  },
+  {
+    "id": 64,
+    "model": "gpt-image-2",
+    "title": "Beauty-retouch before-and-after split screen",
+    "description": "A new GPT Image 2 enhancement-comparison prompt focused on legible before-and-after framing and close-up skin-detail restoration.",
+    "content": "Extreme close-up split-screen comparison image of a young woman’s face, cropped tightly on the eye, brow, cheek, and nose area, labeled “Before” on the left panel and “After” on the right panel with rounded black label tags in the top corners. Left side: soft, blurry, out-of-focus low-detail rendering, muted skin tone, undefined eyebrow hairs, flat lighting, hazy hair strands. Right side: hyper-realistic ultra-sharp AI-enhanced skin retouch, individually defined eyebrow hairs, crisp mascara-coated eyelashes, visible natural skin pores and texture, soft dewy highlight on cheekbone, warm rosy blush, glossy nude-pink lips, sharp catchlight in the hazel-green eye, strand-by-strand hair detail with soft backlight rim, warm neutral studio lighting, shallow depth-of-field falloff toward the hairline, professional beauty photography quality, 8K detail, photorealistic skin-retouching demonstration.",
+    "sourceLink": "https://x.com/HaniaAi12/status/2076105598517809506",
+    "sourcePublishedAt": "2026-07-12T00:45:21.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HM_PCMeb0AALzum.jpg"
+    ],
+    "author": {
+      "name": "@HaniaAi12",
+      "link": "https://x.com/HaniaAi12"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 64,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2076105598517809506",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 1,
+      "replyCount": 9,
+      "likeCount": 17,
+      "quoteCount": 0,
+      "viewCount": 479,
+      "bookmarkCount": 2,
+      "model_evidence": "gpt-image-2"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 13,
+          "title": "Reference Image Edit",
+          "slug": "reference-image-edit"
+        }
+      ],
+      "styles": [
+        {
+          "id": 41,
+          "title": "Commercial Photography",
+          "slug": "commercial-photography"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 61,
+          "title": "Directed Editing & Input Control",
+          "slug": "directed-editing-input-control"
+        }
+      ]
+    }
+  },
+  {
+    "id": 65,
+    "model": "gpt-image-2",
+    "title": "Curved-concrete Japanese luxury fashion editorial",
+    "description": "A fresh GPT Image 2 studio-fashion prompt for architectural minimalism, sharply controlled softbox light, and a luxury womenswear campaign composition.",
+    "content": "A stunning young Japanese woman in a high-end fashion studio photoshoot, standing gracefully in a contemporary architectural studio designed with large curved concrete walls, textured charcoal surfaces, and soft geometric shadows. She wears an elegant luxury designer outfit in deep ivory and black tones, combining modern Japanese minimalism with high-fashion sophistication. Tailored silhouette, refined accessories, subtle jewelry, and impeccable styling create a timeless editorial look. The studio features a dramatic sculptural environment with layered curved walls, smooth polished concrete flooring, and subtle atmospheric haze. No distracting props. The entire composition is focused on her presence, beauty, posture, and expression. Cinematic lighting setup with a large overhead softbox creating soft directional illumination, complemented by subtle side rim lights that sculpt her silhouette. Deep shadows, rich contrast, and controlled highlights create a luxurious fashion-magazine atmosphere. Natural skin texture, flawless yet realistic complexion, elegant hairstyle with soft movement, confident gaze, and graceful posture. Ultra-realistic DSLR photography, luxury women’s fashion editorial, Vogue-level campaign aesthetic, shallow depth of field, 85mm lens, f/1.8, tack-sharp focus on the model, exceptional fabric detail, realistic lighting falloff, premium cinematic color grading, rich tonal depth, architectural fashion photography, luxury advertising campaign quality, photorealistic RAW photo quality, 8K resolution. Pose variation: one hand lightly touches the curved concrete wall, body angled slightly away from camera, chin subtly raised, eyes directly into the lens with calm confidence.",
+    "sourceLink": "https://x.com/Kashberg_0/status/2076138056378458388",
+    "sourcePublishedAt": "2026-07-12T02:54:20.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HM_si9-aQAE4nCT.jpg",
+      "https://pbs.twimg.com/media/HM_sjflbcAAZK5P.jpg"
+    ],
+    "author": {
+      "name": "@Kashberg_0",
+      "link": "https://x.com/Kashberg_0"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 65,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2076138056378458388",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 0,
+      "replyCount": 2,
+      "likeCount": 2,
+      "quoteCount": 0,
+      "viewCount": 84,
+      "bookmarkCount": 0,
+      "model_evidence": "gpt-image-2"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 23,
+          "title": "Editorial Fashion",
+          "slug": "editorial-fashion"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": 66,
+    "model": "gpt-image-2",
+    "title": "Retro shoujo portrait with tabby cat",
+    "description": "A new GPT Image 2 illustration prompt for hand-painted late-1980s shoujo cel animation, nostalgic linework, and a clean character-focused composition.",
+    "content": "Create an ultra-detailed retro Japanese anime illustration inspired by authentic late-1980s and early-1990s shoujo cel animation. Depict a beautiful young woman with porcelain skin, striking crystal-blue eyes, long flowing raven-black hair with soft curtain bangs, and a calm confident expression. She wears an oversized ivory vintage blouse accessorized with layered oxidized silver necklaces, a black leather choker, hoop earrings, and delicate bracelets. She gently cradles a fluffy long-haired brown tabby cat with cream and white markings, both looking toward the viewer. Place them against a simple soft gray background with subtle paper texture to emphasize the characters. Illuminate the portrait using soft diffused studio lighting that produces elegant cel-shaded highlights and gentle shadows. Render with authentic hand-painted cel animation, clean vintage ink linework, delicate film grain, nostalgic color grading, painterly textures, and ultra-high-resolution remastered anime quality.",
+    "sourceLink": "https://x.com/vireonixx/status/2076125026273972480",
+    "sourcePublishedAt": "2026-07-12T02:02:33.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HM_gs_baoAAYWb7.jpg"
+    ],
+    "author": {
+      "name": "@vireonixx",
+      "link": "https://x.com/vireonixx"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 66,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2076125026273972480",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 1,
+      "replyCount": 1,
+      "likeCount": 4,
+      "quoteCount": 0,
+      "viewCount": 70,
+      "bookmarkCount": 0,
+      "model_evidence": "gpt-image-2"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 45,
+          "title": "Anime Key Visual",
+          "slug": "anime-key-visual"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    }
   }
 ]
