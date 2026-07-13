@@ -101,7 +101,7 @@ Project links stay inside this repository; model capability sources point to off
 |--------|-------|
 | จำนวน prompt ทั้งหมด | **66** |
 | แนะนำ | **12** |
-| อัปเดตล่าสุด | **วันอาทิตย์ที่ 12 กรกฎาคม พ.ศ. 2569 เวลา 20 นาฬิกา 41 นาที 16 วินาที UTC** |
+| อัปเดตล่าสุด | **วันจันทร์ที่ 13 กรกฎาคม พ.ศ. 2569 เวลา 2 นาฬิกา 28 นาที 07 วินาที UTC** |
 
 </div>
 
@@ -3315,6 +3315,6 @@ A cozy bedroom mirror selfie captured in natural daylight. A stylish young man s
 **[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ประวัติ Star](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>อัปเดตล่าสุด: 2026-07-12T20:41:16.077Z</sub>
+<sub>อัปเดตล่าสุด: 2026-07-13T02:28:07.417Z</sub>
 
 </div>

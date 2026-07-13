@@ -101,7 +101,7 @@ Project links stay inside this repository; model capability sources point to off
 |--------|-------|
 | プロンプト総数 | **66** |
 | 注目 | **12** |
-| 最終更新 | **2026年7月12日日曜日 20:41:16 UTC** |
+| 最終更新 | **2026年7月13日月曜日 2:28:07 UTC** |
 
 </div>
 
@@ -3315,6 +3315,6 @@ A cozy bedroom mirror selfie captured in natural daylight. A stylish young man s
 **[プロンプトを投稿](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[このリポジトリに Star](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>この README は自動生成されています。最終更新： 2026-07-12T20:41:16.032Z</sub>
+<sub>この README は自動生成されています。最終更新： 2026-07-13T02:28:07.397Z</sub>
 
 </div>
