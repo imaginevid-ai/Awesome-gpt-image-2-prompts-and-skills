@@ -99,9 +99,9 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 
 | Måling | Antall |
 |--------|-------|
-| Totalt antall prompter | **66** |
+| Totalt antall prompter | **71** |
 | Utvalgt | **12** |
-| Sist oppdatert | **mandag 13. juli 2026 kl. 02:28:07 UTC** |
+| Sist oppdatert | **mandag 13. juli 2026 kl. 03:18:30 UTC** |
 
 </div>
 
@@ -1090,7 +1090,7 @@ Extreme close-up split-screen comparison image of a young woman’s face, croppe
 
 <a id="workflow-commercial-design-ui-posters"></a>
 
-### Commercial Design, UI & Posters (37)
+### Commercial Design, UI & Posters (40)
 
 Production briefs for advertisements, product campaigns, interfaces, posters, typography, and other designed assets.
 
@@ -2574,6 +2574,325 @@ Create a vertical 9:16 East Asian Zen minimalist poster with a high-contrast, ce
 
 ---
 
+<a id="prompt-69"></a>
+
+#### No. 39: Ford Mustang ink-wash campaign poster
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Beskrivelse
+
+A GPT Image 2 automotive campaign prompt that contrasts a photoreal hero vehicle with expressive ink-wash atmosphere and controlled editorial typography.
+
+##### Prompt
+
+```
+Create an ultra-premium cinematic campaign poster for the Ford Mustang, combining hyper-real muscle car photography with an almost monochrome ink-wash background, explosive exhaust smoke, and a bold colored hero vehicle that clearly separates from the environment. The car must remain the absolute visual focus, so unlike the background, the Mustang itself must retain a strong realistic body color such as deep performance blue or rich racing red. The overall image should feel powerful, elegant, aggressive, and artistic, with a high-contrast relationship between the colored car and the nearly black-and-white world around it.
+
+Use a vertical poster composition. Place the Ford Mustang low in the frame in a strong front three-quarter or low frontal angle, dominating the lower-middle area with muscular stance, authentic proportions, and visual authority. The car must feel planted, tense, and ready to launch.
+
+Vehicle realism:
+Render the Ford Mustang with full production-level realism and exact brand fidelity:
+true Mustang front fascia,
+correct headlight signature,
+muscular hood sculpting,
+precise grille shape,
+real wheel design,
+authentic body proportions,
+premium paint finish,
+road moisture detail,
+clean reflections,
+and realistic surface tension across metal, glass, and tires.
+The Mustang must be unmistakably real and visually superior.
+
+Critical color rule:
+The background should remain almost monochrome, but the car itself must clearly retain a premium realistic body color.
+Preferred car colors:
+deep electric blue,
+midnight performance blue,
+racing red,
+deep crimson red.
+The car color must feel rich, clean, and luxurious, with subtle tonal variation and premium reflections.
+Do not desaturate the car into gray.
+Do not let the vehicle blend into the background.
+The colored car must stand out sharply against the black-white ink atmosphere.
+
+Background:
+Build an almost black-and-white environment using ink-wash atmosphere, charcoal fog, soft gray smoke, wet black ground, desaturated mist, and painterly storm density. The world around the car should feel monochrome, moody, and elegant, like a fine-art ink landscape designed for a muscle car legend.
+Keep the environment restrained and cinematic, not cluttered.
+
+Brand presence:
+Behind the car, integrate a giant symbolic Ford Mustang spirit-mark or monumental heritage-style emblem into the misty background. It should feel ghosted into the storm and ink layers rather than pasted on top. This monumental background form should create authority and myth without stealing attention from the vehicle.
+
+Exhaust and smoke:
+Create violent, hyper-real exhaust smoke, tail haze, and road vapor around and behind the Mustang. The smoke must feel dense, fast, physical, and beautifully shaped, with realistic turbulence, layered transparency, expansion, and pressure. Let the smoke behave like automotive force first, but visually echo black-and-white ink blooming in air.
+The smoke is a major energy source in the image and should amplify the contrast between the colored car and the monochrome environment.
+
+Ground:
+Use a wet black road or soaked pavement surface with broken cinematic reflections of the colored Mustang, its headlights, grille, and smoke. The reflection should be dark, glossy, and slightly fragmented, adding depth and atmosphere.
+
+Lighting:
+Use dramatic cinematic lighting with refined contrast and precise highlight control. The background should stay desaturated and moody, while the car receives more focused premium reflections that reveal the richness of the blue or red paint. The vehicle must glow subtly against the monochrome world without looking artificial.
+No neon color effects.
+No cartoon saturation.
+Keep the car color realistic, premium, and powerful.
+
+Typography:
+Use minimal English typography only, in a refined premium editorial layout.
+Possible title directions:
+“FORD MUSTANG”
+“BORN TO RUN”
+“PURE INSTINCT”
+“COLOR AGAINST THE STORM”
+Typography should feel artistic, spacious, and authoritative, integrated cleanly into the composition with minimal official-style Ford branding if needed.
+
+Mood:
+muscular, elegant, cinematic, monochrome environment, colored hero car, wild, iconic, aggressive, premium, atmospheric, high-contrast, American performance heritage.
+
+Rendering style:
+hyper-real Ford Mustang photography, blue or red hero car, monochrome ink-wash background, violent exhaust smoke, wet pavement reflections, ghosted monumental brand symbol, luxury muscle-car campaign, cinematic fine-art atmosphere, 8k, world-class visual quality.
+
+Negative prompt:
+gray car, desaturated vehicle, car blending into background, generic sports car, wrong Mustang grille, concept styling, colorful background, neon effects, cartoon smoke, fake reflections, cluttered composition, pasted logo, cheap poster design, oversaturated paint, flat lighting, plastic-looking car, low-detail wheels, messy typography, noisy shadows, dirty black blotches, unrealistic exhaust, toy-like proportions
+```
+
+##### Genererte bilder
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNDAY5CbAAAeGAB.jpg" width="100%" alt="Ford Mustang ink-wash campaign poster - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNDAaKMbcAAQrd3.jpg" width="100%" alt="Ford Mustang ink-wash campaign poster - Image 2"></td>
+</tr>
+</table>
+
+##### Detaljer
+
+- **Forfatter:** [@ou_zhen599](https://x.com/ou_zhen599)
+- **Kilde:** [Kilde](https://x.com/ou_zhen599/status/2076370999566905540)
+- **Publisert:** 12. juli 2026
+- **Språk:** en
+
+**[Bruk denne prompten · GPT Image 2 Library](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
+
+---
+
+<a id="prompt-70"></a>
+
+#### No. 40: Ford Raptor desert predator campaign
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Beskrivelse
+
+A GPT Image 2 automotive campaign prompt that turns a sandstorm into a mythic raptor presence while keeping the truck physically credible and dominant.
+
+##### Prompt
+
+```
+Create an ultra-premium cinematic desert campaign poster for the Ford F-150 Raptor, combining hyper-real truck photography with the ghostly presence of a colossal raptor hidden inside a violent sandstorm. The image must feel savage, majestic, elemental, and powerfully cinematic, with the truck as the absolute hero object and the giant bird presence acting as a mythic environmental force rather than a separate creature showcase.
+
+Composition:
+Use a vertical poster composition. Place the Ford F-150 Raptor in the lower foreground, charging diagonally across a desert dune with aggressive momentum and total visual authority. The truck should be captured in a dynamic three-quarter front angle, suspension working hard, tires cutting into sand, body leaning naturally with believable off-road weight transfer. The vehicle must dominate the lower half of the frame.
+
+Truck realism:
+Render the Ford F-150 Raptor with extreme realism and full brand fidelity:
+authentic body proportions,
+true Raptor front fascia,
+real grille structure,
+correct headlight signature,
+high-performance off-road tires,
+wide stance,
+detailed suspension feel,
+realistic paint finish,
+dust-covered lower panels,
+subtle reflections,
+premium metallic surfaces,
+and powerful desert-ready presence.
+The truck must feel like a real production hero vehicle, not a concept car and not a generic pickup.
+
+Desert action:
+The truck is tearing through a violent desert environment, creating highly realistic sand displacement, dust plumes, granular turbulence, and wind-swept debris. The sandstorm must feel physically believable and extremely detailed: layered grains, airborne dust curtains, rolling dune mist, soft density changes, and directional motion shaped by speed and wind. The desert should feel hot, hostile, and monumental.
+
+Giant raptor presence:
+In the upper background and within the sandstorm itself, reveal the hidden head of a colossal raptor bird, emerging only partially through the storm. Do not show the full animal. Only suggest the massive predatory head through faint but powerful forms:
+glowing eyes,
+the shadowed curve of a hooked beak,
+subtle feathered structure,
+bone-like avian facial planes,
+and a looming predatory silhouette embedded in the dust.
+The bird should feel ancient, enormous, and terrifyingly calm, as if the storm itself has taken on the spirit of a desert raptor.
+Its presence must remain semi-hidden, atmospheric, and fused into the sandstorm, never looking like a separate pasted-in monster.
+
+Very important:
+The giant bird must not appear as a dragon, reptile, fantasy monster, or fully visible creature.
+It must clearly read as a colossal raptor-like bird of prey presence, hidden in dust and heat.
+No full wings, no full body reveal, no creature standing in the desert.
+Only a partially visible giant head and eyes, emerging through the storm.
+
+Visual relationship:
+The Ford F-150 Raptor should feel like it is moving through the domain of a greater predator spirit, echoing the truck’s name and off-road aggression. The giant raptor presence should amplify the truck’s character, not compete with it. The truck must remain the focal point, sharp and readable, while the giant bird remains atmospheric, looming, and mythic.
+
+Lighting:
+Use dramatic golden desert lighting with a warm amber core, diffused through dust and storm haze. The truck should catch crisp highlights along the hood, grille, roofline, and fenders, while the storm glows around it with deep orange-gold particulate light. The hidden bird eyes should burn subtly through the sand haze, not overly bright, just enough to create menace and scale.
+The overall light must feel cinematic, expensive, and refined, with controlled contrast and soft transitions in the storm.
+
+Background:
+Keep the environment minimal and powerful:
+rolling dunes,
+sand-laden wind,
+storm density,
+and the giant avian presence fused into the atmosphere.
+No extra scenery, no buildings, no other vehicles, no random props.
+The scene must feel vast, empty, and mythic.
+
+Typography:
+Use minimal English typography only, in a refined bold editorial style.
+Possible text:
+“FORD”
+“F-150 RAPTOR”
+“BORN OF THE STORM”
+or
+“PREDATOR OF THE DESERT”
+Keep branding elegant, restrained, and integrated into the composition with premium spacing.
+Include a minimal official-style Ford wordmark if needed.
+
+Mood:
+feral, powerful, cinematic, mythic, predatory, dust-charged, elemental, aggressive, premium, heroic, storm-driven, desert-authority.
+
+Rendering style:
+hyper-real off-road truck photography, cinematic desert storm, hidden colossal raptor head in sand, premium Ford campaign poster, extreme sand realism, mythic environmental creature fusion, luxury action advertising, 8k, world-class campaign quality.
+
+Negative prompt:
+full bird body, dragon, reptile monster, fantasy beast, pasted creature, cartoon sandstorm, fake dust, low-detail truck, wrong Ford design, generic pickup, cluttered background, multiple vehicles, overexposed sky, cheap action poster, chaotic fire effects, unrealistic tire motion, blurry grille, muddy composition, dirty black blotches, noisy shadows
+```
+
+##### Genererte bilder
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNC5GbXaEAAtjBj.jpg" width="100%" alt="Ford Raptor desert predator campaign - Image 1"></td>
+</tr>
+</table>
+
+##### Detaljer
+
+- **Forfatter:** [@ou_zhen599](https://x.com/ou_zhen599)
+- **Kilde:** [Kilde](https://x.com/ou_zhen599/status/2076362978165965078)
+- **Publisert:** 12. juli 2026
+- **Språk:** en
+
+**[Bruk denne prompten · GPT Image 2 Library](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
+
+---
+
+<a id="prompt-71"></a>
+
+#### No. 41: Mascot merchandise application board
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Beskrivelse
+
+A GPT Image 2 brand-system prompt for showing one fixed 3D mascot consistently across packaging, collateral, and retail-ready merchandise.
+
+##### Prompt
+
+```
+Create the third image of a unified IP branding campaign for Nimm2 Vitamin Fruit Lollipops, using the already-approved crocodile mascot from image 1 as the fixed official character. This third image must be a premium brand application board / mascot merchandise presentation sheet, inspired by professional packaging and visual identity showcase layouts. The purpose is to show how the exact same IP character is applied across branded materials, packaging, shopping bags, stickers, cards, posters, and promotional goods.
+
+Critical IP consistency rule:
+The crocodile mascot must remain absolutely identical to the approved character from image 1 in every single appearance.
+Do not redesign the mascot.
+Do not alter the head shape, snout length, eye size, smile, body proportions, limb proportions, green skin color, belly color, backpack design, sunglasses design, lollipop shape, or rendering style.
+No off-model variations are allowed.
+Every mascot appearance must look like the exact same official IP asset, perfectly unified across all applications.
+
+Character design:
+A cute 3D cartoon baby crocodile mascot with Disney-level charm and polished commercial rendering quality, cheerful and adventurous, with smooth green skin, rounded snout, bright expressive eyes, friendly smile, a small brown travel backpack, oversized cartoon sunglasses on the head, and a pink Nimm2 lollipop in hand. The character must feel lovable, collectible, and instantly recognizable as the official Nimm2 Vitamin Fruit Lollipops mascot.
+
+Board concept:
+Design a clean, premium merchandise and packaging application board in the same series as image 2, but this time focused more on real branded collateral and retail applications.
+The board should feel like an agency-level brand presentation sheet, with neatly arranged mockups and cohesive spacing on a warm, playful, candy-brand background.
+
+Layout:
+Use a vertical poster layout with multiple carefully arranged object mockups placed across the canvas, similar to a professional branding showcase.
+Include a mix of branded applications such as:
+shopping bags,
+product gift bags,
+sticker sheets,
+badge pins,
+brand cards,
+postcards,
+small posters,
+label tags,
+promotional packaging boxes,
+display cards,
+takeaway-style paper packaging,
+wrappers,
+and simple branded merchandise.
+Arrange them in a visually pleasing, balanced layout with clear negative space and a polished presentation rhythm.
+
+Mascot usage:
+Some items should feature the full mascot prominently.
+Some items should use cropped mascot artwork.
+Some should use mascot-plus-logo lockups.
+Some can use repeat patterns based on the mascot and lollipop.
+All mascot appearances must remain perfectly consistent and unified, with no stylistic drift.
+
+Logo and brand system:
+Feature the Nimm2 Vitamin Fruit Lollipops logo across the applications in a clean and repeatable system.
+The logo should feel cheerful, candy-like, and international.
+Use the brand colors established in image 1, including fresh green, candy pink, lemon yellow, orange, berry purple, and aqua blue.
+
+Visual style:
+Bright, premium, playful, clean, collectible, retail-ready, and highly commercial.
+The overall board should blend graphic design clarity with cute character branding, creating a polished visual identity presentation.
+Use soft warm neutrals or candy-toned backgrounds with colorful brand accents and professional packaging mockup realism.
+
+Typography:
+Use English branding only.
+Possible text elements:
+“Nimm2”
+“Vitamin Fruit Lollipops”
+“Official Mascot Applications”
+“Brand Merchandise”
+“Packaging System”
+Typography should feel rounded, cute, refined, and modern, never crude or overly heavy.
+
+Materials and realism:
+All packaging materials should look realistic and premium: paper bags, coated cards, matte stickers, glossy labels, cardboard boxes, printed signage, and branded retail pieces should all have believable texture, lighting, and mockup quality.
+The mascot itself should retain a slightly dimensional 3D look even when printed, as if it is part of a highly developed international confectionery IP system.
+
+Mood:
+adorable, unified, collectible, branded, polished, retail-friendly, joyful, colorful, family-oriented, premium, professionally designed.
+
+Rendering style:
+premium mascot merchandise board, professional packaging identity sheet, official IP application showcase, consistent 3D crocodile mascot, candy brand collateral system, retail mockup presentation, agency-level visual branding board, 8k, world-class quality.
+
+Negative prompt:
+different crocodile design, altered mascot face, off-model character, inconsistent backpack, different sunglasses, changed proportions, ugly mascot, scary reptile, inconsistent render style, messy layout, amateur mockups, low-detail packaging, blurry logo, crude typography, deformed hands, extra fingers, broken anatomy, cluttered branding board, random mascot redesign
+```
+
+##### Genererte bilder
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNCt_BLboAAsNf9.jpg" width="100%" alt="Mascot merchandise application board - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNCuAS3awAAP0xl.jpg" width="100%" alt="Mascot merchandise application board - Image 2"></td>
+</tr>
+</table>
+
+##### Detaljer
+
+- **Forfatter:** [@ou_zhen599](https://x.com/ou_zhen599)
+- **Kilde:** [Kilde](https://x.com/ou_zhen599/status/2076350867771719975)
+- **Publisert:** 12. juli 2026
+- **Språk:** en
+
+**[Bruk denne prompten · GPT Image 2 Library](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
+
+---
+
 <a id="workflow-diagrams-technical-storyboards"></a>
 
 ### Diagrams, Technical Art & Storyboards (3)
@@ -2587,7 +2906,7 @@ Structured visuals where information order matters: diagrams, technical drawings
 
 <a id="prompt-13"></a>
 
-#### No. 39: Japanese cooking storyboard board
+#### No. 42: Japanese cooking storyboard board
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -2674,7 +2993,7 @@ Location: Traditional Japanese kitchen.
 
 <a id="workflow-characters-cinema-visual-styles"></a>
 
-### Characters, Cinema & Visual Styles (13)
+### Characters, Cinema & Visual Styles (15)
 
 Character, portrait, fashion, cinematic-frame, and style-exploration prompts centered on visual direction and image language.
 
@@ -2684,7 +3003,7 @@ Character, portrait, fashion, cinematic-frame, and style-exploration prompts cen
 
 <a id="prompt-16"></a>
 
-#### No. 40: Premium food and beverage campaign 2
+#### No. 43: Premium food and beverage campaign 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -2732,7 +3051,7 @@ Negative Prompt: (text, UI elements, watermark, social media overlay:1.5), (heav
 
 <a id="prompt-25"></a>
 
-#### No. 41: Identity-preserving reference edit 4
+#### No. 44: Identity-preserving reference edit 4
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -2773,7 +3092,7 @@ Multiple cute candid poses: softly touching her hair, hand resting on cheek, pla
 
 <a id="prompt-31"></a>
 
-#### No. 42: Luxury studio fashion editorial 7
+#### No. 45: Luxury studio fashion editorial 7
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -2809,7 +3128,7 @@ Candid fashion editorial portrait of handsome young man with medium-length dark 
 
 <a id="prompt-32"></a>
 
-#### No. 43: Luxury studio fashion editorial 8
+#### No. 46: Luxury studio fashion editorial 8
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -2850,7 +3169,7 @@ Style: editorial luxury fashion portrait, photorealistic, professional studio ph
 
 <a id="prompt-37"></a>
 
-#### No. 44: Luxury studio fashion editorial 10
+#### No. 47: Luxury studio fashion editorial 10
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2887,7 +3206,7 @@ High-fashion editorial portrait, young woman with sleek pulled-back dark hair, l
 
 <a id="prompt-52"></a>
 
-#### No. 45: Crimson-hands surreal porcelain portrait
+#### No. 48: Crimson-hands surreal porcelain portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2923,7 +3242,7 @@ Ultra-realistic surreal conceptual portrait of a flawless matte porcelain-white 
 
 <a id="prompt-55"></a>
 
-#### No. 46: Identity-preserving reference edit 9
+#### No. 49: Identity-preserving reference edit 9
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -2959,7 +3278,7 @@ A character, portrait, or stylized illustration prompt with clear art direction 
 
 <a id="prompt-58"></a>
 
-#### No. 47: Period-drama heroine portrait and turnaround sheet
+#### No. 50: Period-drama heroine portrait and turnaround sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2995,7 +3314,7 @@ Create a photoreal Chinese period-drama heroine character sheet for an affluent 
 
 <a id="prompt-60"></a>
 
-#### No. 48: Sunlit Scandinavian knitwear portrait
+#### No. 51: Sunlit Scandinavian knitwear portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3031,7 +3350,7 @@ Dreamy sunlit portrait of a young woman with long soft light-brown hair, delicat
 
 <a id="prompt-62"></a>
 
-#### No. 49: Autumn ferry-crossing period-fantasy heroine
+#### No. 52: Autumn ferry-crossing period-fantasy heroine
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3066,7 +3385,7 @@ Create a high-resolution vertical 9:16 Chinese period-fantasy portrait with the 
 
 <a id="prompt-65"></a>
 
-#### No. 50: Curved-concrete Japanese luxury fashion editorial
+#### No. 53: Curved-concrete Japanese luxury fashion editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3102,7 +3421,7 @@ A stunning young Japanese woman in a high-end fashion studio photoshoot, standin
 
 <a id="prompt-66"></a>
 
-#### No. 51: Retro shoujo portrait with tabby cat
+#### No. 54: Retro shoujo portrait with tabby cat
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3135,6 +3454,85 @@ Create an ultra-detailed retro Japanese anime illustration inspired by authentic
 
 ---
 
+<a id="prompt-67"></a>
+
+#### No. 55: Sunlit beach fashion portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Beskrivelse
+
+A GPT Image 2 fashion-photography prompt pairing a relaxed knit outfit with a simple coastal setting, cinematic warmth, and crisp depth.
+
+##### Prompt
+
+```
+A woman wearing sunglasses, a beige knitted long-sleeved crop top with a wide loose fit, and a matching high-waisted midi skirt with a side slit, standing on a sandy beach next to a small white and blue wooden boat.
+In the background, there are wild green reeds, distant palm trees, and a clear blue sky. Warm sunlight illuminates the woman with cinematic lighting. Ultra-realistic, 8K resolution, depth of field, professional fashion photography style.
+```
+
+##### Genererte bilder
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNEtj9KbIAAfUDC.jpg" width="100%" alt="Sunlit beach fashion portrait - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNEtkpxbsAAQaHZ.jpg" width="100%" alt="Sunlit beach fashion portrait - Image 2"></td>
+</tr>
+</table>
+
+##### Detaljer
+
+- **Forfatter:** [@mehvishs25](https://x.com/mehvishs25)
+- **Kilde:** [Kilde](https://x.com/mehvishs25/status/2076491020787937579)
+- **Publisert:** 13. juli 2026
+- **Språk:** en
+
+**[Bruk denne prompten · GPT Image 2 Library](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
+
+---
+
+<a id="prompt-68"></a>
+
+#### No. 56: Retro red jersey street portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Beskrivelse
+
+A GPT Image 2 street-fashion prompt for a confident portrait built around an oversized red athletic jersey and distressed denim styling.
+
+##### Prompt
+
+```
+{
+    "subject_and_outfit_formula": "A stylish young East Asian woman with a confident and cool expression, her dark, shoulder-length hair gently tousled by a light breeze. She is dressed in an oversized, retro-style red athletic jersey with white side panels and bold graphic lettering on the chest. Below, she wears high-waisted light-wash denim shorts featuring aggressive distressing, large ripped panels across the thighs, and raw, frayed hems. Her footwear includes thick white crew socks with classic red and blue stripes at the top, paired with chunky, multi-layered cream and beige platform sneakers that add to her urban, sporty aesthetic.",
+    "background_and_environment": "The scene is set in a minimalist, sun-drenched outdoor skatepark featuring smooth, sweeping gray concrete ramps and bowls. The backdrop is an expansive, vibrant azure sky dotted with soft, feathered white clouds, suggesting a clear and bright summer afternoon. Intense, direct sunlight originates from a high angle, creating a luminous rim-lighting effect around the subject's silhouette and casting sharp, defined shadows on the concrete surface, evoking a sense of high-energy urban life.",
+    "camera_angle_and_composition": "An extreme low-angle 'worm's eye view' shot captured from a ground-level perspective looking steeply upward, which emphasizes the subject's height and commanding, heroic presence. A colorful, illustrative skateboard with intricate pop-art graphics and bold 'SKATE' typography is held vertically in the immediate foreground, acting as a powerful visual anchor and creating a strong sense of depth. The composition utilizes a wide-angle perspective to frame the subject against the vastness of the sky, making her the central focal point of the frame.",
+    "face_reference": "Use the uploaded photo as the primary reference for facial structure and features.",
+    "camera_and_vintage_style_settings": "Standard high-quality digital photography, crisp and clear."
+}
+```
+
+##### Genererte bilder
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNEqE0baYAA5jZy.jpg" width="100%" alt="Retro red jersey street portrait - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNEqE0ZbEAExJbY.jpg" width="100%" alt="Retro red jersey street portrait - Image 2"></td>
+</tr>
+</table>
+
+##### Detaljer
+
+- **Forfatter:** [@Naiknelofar788](https://x.com/Naiknelofar788)
+- **Kilde:** [Kilde](https://x.com/Naiknelofar788/status/2076487175114576057)
+- **Publisert:** 13. juli 2026
+- **Språk:** en
+
+**[Bruk denne prompten · GPT Image 2 Library](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
+
+---
+
 <a id="workflow-environments-architecture-worldbuilding"></a>
 
 ### Environments, Architecture & Worldbuilding (4)
@@ -3147,7 +3545,7 @@ Environment, architecture, landscape, concept-art, and worldbuilding prompts whe
 
 <a id="prompt-14"></a>
 
-#### No. 52: Candid smartphone lifestyle portrait
+#### No. 57: Candid smartphone lifestyle portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3188,7 +3586,7 @@ Negative: anime, CGI, blur, bad anatomy, extra fingers, watermark, logo.
 
 <a id="prompt-24"></a>
 
-#### No. 53: Mall fashion smartphone scene
+#### No. 58: Mall fashion smartphone scene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3224,7 +3622,7 @@ Indian woman in a sky-blue pearl saree, matching blouse, elegant handbag, mehndi
 
 <a id="prompt-38"></a>
 
-#### No. 54: Candid smartphone lifestyle portrait 3
+#### No. 59: Candid smartphone lifestyle portrait 3
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3290,12 +3688,12 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 - [GPT Image 2 Prompt Library](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)
 <details>
-<summary>Skapere i fellesskapet (30)</summary>
+<summary>Skapere i fellesskapet (31)</summary>
 
 [@Aqsahere_](https://x.com/Aqsahere_) · [@auqibhabib](https://x.com/auqibhabib) · [@ChillaiKalan__](https://x.com/ChillaiKalan__) · [@Ciri_ai](https://x.com/Ciri_ai) · [@frametheory058](https://x.com/frametheory058) · [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [@HaniaAi12](https://x.com/HaniaAi12) · [@harboriis](https://x.com/harboriis)<br>
 [@iamrealsnow](https://x.com/iamrealsnow) · [@iamsofiaijaz](https://x.com/iamsofiaijaz) · [@john_my07](https://x.com/john_my07) · [@johnAGI168](https://x.com/johnAGI168) · [@Kashberg_0](https://x.com/Kashberg_0) · [@kingofdairyque](https://x.com/kingofdairyque) · [@liyue_ai](https://x.com/liyue_ai) · [@mehvishs25](https://x.com/mehvishs25)<br>
-[@meng_dagg695](https://x.com/meng_dagg695) · [@MissDelulu9](https://x.com/MissDelulu9) · [@Naiknelofar788](https://x.com/Naiknelofar788) · [@ninaxmee](https://x.com/ninaxmee) · [@Professor_134](https://x.com/Professor_134) · [@Sairah_0](https://x.com/Sairah_0) · [@saniaspeaks_](https://x.com/saniaspeaks_) · [@Shorelyn_](https://x.com/Shorelyn_)<br>
-[@SimplyAnnisa](https://x.com/SimplyAnnisa) · [@Taaruk_](https://x.com/Taaruk_) · [@TaliaAariz](https://x.com/TaliaAariz) · [@vireonixx](https://x.com/vireonixx) · [@Xaroon_x](https://x.com/Xaroon_x) · [@ZaraIrahh](https://x.com/ZaraIrahh)
+[@meng_dagg695](https://x.com/meng_dagg695) · [@MissDelulu9](https://x.com/MissDelulu9) · [@Naiknelofar788](https://x.com/Naiknelofar788) · [@ninaxmee](https://x.com/ninaxmee) · [@ou_zhen599](https://x.com/ou_zhen599) · [@Professor_134](https://x.com/Professor_134) · [@Sairah_0](https://x.com/Sairah_0) · [@saniaspeaks_](https://x.com/saniaspeaks_)<br>
+[@Shorelyn_](https://x.com/Shorelyn_) · [@SimplyAnnisa](https://x.com/SimplyAnnisa) · [@Taaruk_](https://x.com/Taaruk_) · [@TaliaAariz](https://x.com/TaliaAariz) · [@vireonixx](https://x.com/vireonixx) · [@Xaroon_x](https://x.com/Xaroon_x) · [@ZaraIrahh](https://x.com/ZaraIrahh)
 
 </details>
 
@@ -3315,6 +3713,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Send inn prompt](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Gi repoet en Star](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-13T02:28:07.600Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-13T03:18:30.187Z</sub>
 
 </div>

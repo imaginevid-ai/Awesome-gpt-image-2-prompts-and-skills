@@ -4156,5 +4156,314 @@
         }
       ]
     }
+  },
+  {
+    "id": 67,
+    "model": "gpt-image-2",
+    "title": "Sunlit beach fashion portrait",
+    "description": "A GPT Image 2 fashion-photography prompt pairing a relaxed knit outfit with a simple coastal setting, cinematic warmth, and crisp depth.",
+    "content": "A woman wearing sunglasses, a beige knitted long-sleeved crop top with a wide loose fit, and a matching high-waisted midi skirt with a side slit, standing on a sandy beach next to a small white and blue wooden boat.\nIn the background, there are wild green reeds, distant palm trees, and a clear blue sky. Warm sunlight illuminates the woman with cinematic lighting. Ultra-realistic, 8K resolution, depth of field, professional fashion photography style.",
+    "sourceLink": "https://x.com/mehvishs25/status/2076491020787937579",
+    "sourcePublishedAt": "2026-07-13T02:16:53.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNEtj9KbIAAfUDC.jpg",
+      "https://pbs.twimg.com/media/HNEtkpxbsAAQaHZ.jpg"
+    ],
+    "author": {
+      "name": "@mehvishs25",
+      "link": "https://x.com/mehvishs25"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 67,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2076491020787937579",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 1,
+      "replyCount": 3,
+      "likeCount": 5,
+      "quoteCount": 0,
+      "viewCount": 63,
+      "bookmarkCount": 1,
+      "model_evidence": "gpt-image-2"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 41,
+          "title": "Commercial Photography",
+          "slug": "commercial-photography"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": 68,
+    "model": "gpt-image-2",
+    "title": "Retro red jersey street portrait",
+    "description": "A GPT Image 2 street-fashion prompt for a confident portrait built around an oversized red athletic jersey and distressed denim styling.",
+    "content": "{\n    \"subject_and_outfit_formula\": \"A stylish young East Asian woman with a confident and cool expression, her dark, shoulder-length hair gently tousled by a light breeze. She is dressed in an oversized, retro-style red athletic jersey with white side panels and bold graphic lettering on the chest. Below, she wears high-waisted light-wash denim shorts featuring aggressive distressing, large ripped panels across the thighs, and raw, frayed hems. Her footwear includes thick white crew socks with classic red and blue stripes at the top, paired with chunky, multi-layered cream and beige platform sneakers that add to her urban, sporty aesthetic.\",\n    \"background_and_environment\": \"The scene is set in a minimalist, sun-drenched outdoor skatepark featuring smooth, sweeping gray concrete ramps and bowls. The backdrop is an expansive, vibrant azure sky dotted with soft, feathered white clouds, suggesting a clear and bright summer afternoon. Intense, direct sunlight originates from a high angle, creating a luminous rim-lighting effect around the subject's silhouette and casting sharp, defined shadows on the concrete surface, evoking a sense of high-energy urban life.\",\n    \"camera_angle_and_composition\": \"An extreme low-angle 'worm's eye view' shot captured from a ground-level perspective looking steeply upward, which emphasizes the subject's height and commanding, heroic presence. A colorful, illustrative skateboard with intricate pop-art graphics and bold 'SKATE' typography is held vertically in the immediate foreground, acting as a powerful visual anchor and creating a strong sense of depth. The composition utilizes a wide-angle perspective to frame the subject against the vastness of the sky, making her the central focal point of the frame.\",\n    \"face_reference\": \"Use the uploaded photo as the primary reference for facial structure and features.\",\n    \"camera_and_vintage_style_settings\": \"Standard high-quality digital photography, crisp and clear.\"\n}",
+    "sourceLink": "https://x.com/Naiknelofar788/status/2076487175114576057",
+    "sourcePublishedAt": "2026-07-13T02:01:36.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNEqE0baYAA5jZy.jpg",
+      "https://pbs.twimg.com/media/HNEqE0ZbEAExJbY.jpg"
+    ],
+    "author": {
+      "name": "@Naiknelofar788",
+      "link": "https://x.com/Naiknelofar788"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 68,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2076487175114576057",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 0,
+      "replyCount": 7,
+      "likeCount": 7,
+      "quoteCount": 0,
+      "viewCount": 144,
+      "bookmarkCount": 1,
+      "model_evidence": "gpt-image-2"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 23,
+          "title": "Editorial Fashion",
+          "slug": "editorial-fashion"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": 69,
+    "model": "gpt-image-2",
+    "title": "Ford Mustang ink-wash campaign poster",
+    "description": "A GPT Image 2 automotive campaign prompt that contrasts a photoreal hero vehicle with expressive ink-wash atmosphere and controlled editorial typography.",
+    "content": "Create an ultra-premium cinematic campaign poster for the Ford Mustang, combining hyper-real muscle car photography with an almost monochrome ink-wash background, explosive exhaust smoke, and a bold colored hero vehicle that clearly separates from the environment. The car must remain the absolute visual focus, so unlike the background, the Mustang itself must retain a strong realistic body color such as deep performance blue or rich racing red. The overall image should feel powerful, elegant, aggressive, and artistic, with a high-contrast relationship between the colored car and the nearly black-and-white world around it.\n\nUse a vertical poster composition. Place the Ford Mustang low in the frame in a strong front three-quarter or low frontal angle, dominating the lower-middle area with muscular stance, authentic proportions, and visual authority. The car must feel planted, tense, and ready to launch.\n\nVehicle realism:\nRender the Ford Mustang with full production-level realism and exact brand fidelity:\ntrue Mustang front fascia,\ncorrect headlight signature,\nmuscular hood sculpting,\nprecise grille shape,\nreal wheel design,\nauthentic body proportions,\npremium paint finish,\nroad moisture detail,\nclean reflections,\nand realistic surface tension across metal, glass, and tires.\nThe Mustang must be unmistakably real and visually superior.\n\nCritical color rule:\nThe background should remain almost monochrome, but the car itself must clearly retain a premium realistic body color.\nPreferred car colors:\ndeep electric blue,\nmidnight performance blue,\nracing red,\ndeep crimson red.\nThe car color must feel rich, clean, and luxurious, with subtle tonal variation and premium reflections.\nDo not desaturate the car into gray.\nDo not let the vehicle blend into the background.\nThe colored car must stand out sharply against the black-white ink atmosphere.\n\nBackground:\nBuild an almost black-and-white environment using ink-wash atmosphere, charcoal fog, soft gray smoke, wet black ground, desaturated mist, and painterly storm density. The world around the car should feel monochrome, moody, and elegant, like a fine-art ink landscape designed for a muscle car legend.\nKeep the environment restrained and cinematic, not cluttered.\n\nBrand presence:\nBehind the car, integrate a giant symbolic Ford Mustang spirit-mark or monumental heritage-style emblem into the misty background. It should feel ghosted into the storm and ink layers rather than pasted on top. This monumental background form should create authority and myth without stealing attention from the vehicle.\n\nExhaust and smoke:\nCreate violent, hyper-real exhaust smoke, tail haze, and road vapor around and behind the Mustang. The smoke must feel dense, fast, physical, and beautifully shaped, with realistic turbulence, layered transparency, expansion, and pressure. Let the smoke behave like automotive force first, but visually echo black-and-white ink blooming in air.\nThe smoke is a major energy source in the image and should amplify the contrast between the colored car and the monochrome environment.\n\nGround:\nUse a wet black road or soaked pavement surface with broken cinematic reflections of the colored Mustang, its headlights, grille, and smoke. The reflection should be dark, glossy, and slightly fragmented, adding depth and atmosphere.\n\nLighting:\nUse dramatic cinematic lighting with refined contrast and precise highlight control. The background should stay desaturated and moody, while the car receives more focused premium reflections that reveal the richness of the blue or red paint. The vehicle must glow subtly against the monochrome world without looking artificial.\nNo neon color effects.\nNo cartoon saturation.\nKeep the car color realistic, premium, and powerful.\n\nTypography:\nUse minimal English typography only, in a refined premium editorial layout.\nPossible title directions:\n“FORD MUSTANG”\n“BORN TO RUN”\n“PURE INSTINCT”\n“COLOR AGAINST THE STORM”\nTypography should feel artistic, spacious, and authoritative, integrated cleanly into the composition with minimal official-style Ford branding if needed.\n\nMood:\nmuscular, elegant, cinematic, monochrome environment, colored hero car, wild, iconic, aggressive, premium, atmospheric, high-contrast, American performance heritage.\n\nRendering style:\nhyper-real Ford Mustang photography, blue or red hero car, monochrome ink-wash background, violent exhaust smoke, wet pavement reflections, ghosted monumental brand symbol, luxury muscle-car campaign, cinematic fine-art atmosphere, 8k, world-class visual quality.\n\nNegative prompt:\ngray car, desaturated vehicle, car blending into background, generic sports car, wrong Mustang grille, concept styling, colorful background, neon effects, cartoon smoke, fake reflections, cluttered composition, pasted logo, cheap poster design, oversaturated paint, flat lighting, plastic-looking car, low-detail wheels, messy typography, noisy shadows, dirty black blotches, unrealistic exhaust, toy-like proportions",
+    "sourceLink": "https://x.com/ou_zhen599/status/2076370999566905540",
+    "sourcePublishedAt": "2026-07-12T18:19:58.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNDAY5CbAAAeGAB.jpg",
+      "https://pbs.twimg.com/media/HNDAaKMbcAAQrd3.jpg"
+    ],
+    "author": {
+      "name": "@ou_zhen599",
+      "link": "https://x.com/ou_zhen599"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 69,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2076370999566905540",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 1,
+      "replyCount": 0,
+      "likeCount": 12,
+      "quoteCount": 0,
+      "viewCount": 228,
+      "bookmarkCount": 6,
+      "model_evidence": "gpt-image-2"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 15,
+          "title": "Product Campaign",
+          "slug": "product-campaign"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 51,
+          "title": "Product & Props",
+          "slug": "product-props"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 62,
+          "title": "Commercial Design, UI & Posters",
+          "slug": "commercial-design-ui-posters"
+        }
+      ]
+    }
+  },
+  {
+    "id": 70,
+    "model": "gpt-image-2",
+    "title": "Ford Raptor desert predator campaign",
+    "description": "A GPT Image 2 automotive campaign prompt that turns a sandstorm into a mythic raptor presence while keeping the truck physically credible and dominant.",
+    "content": "Create an ultra-premium cinematic desert campaign poster for the Ford F-150 Raptor, combining hyper-real truck photography with the ghostly presence of a colossal raptor hidden inside a violent sandstorm. The image must feel savage, majestic, elemental, and powerfully cinematic, with the truck as the absolute hero object and the giant bird presence acting as a mythic environmental force rather than a separate creature showcase.\n\nComposition:\nUse a vertical poster composition. Place the Ford F-150 Raptor in the lower foreground, charging diagonally across a desert dune with aggressive momentum and total visual authority. The truck should be captured in a dynamic three-quarter front angle, suspension working hard, tires cutting into sand, body leaning naturally with believable off-road weight transfer. The vehicle must dominate the lower half of the frame.\n\nTruck realism:\nRender the Ford F-150 Raptor with extreme realism and full brand fidelity:\nauthentic body proportions,\ntrue Raptor front fascia,\nreal grille structure,\ncorrect headlight signature,\nhigh-performance off-road tires,\nwide stance,\ndetailed suspension feel,\nrealistic paint finish,\ndust-covered lower panels,\nsubtle reflections,\npremium metallic surfaces,\nand powerful desert-ready presence.\nThe truck must feel like a real production hero vehicle, not a concept car and not a generic pickup.\n\nDesert action:\nThe truck is tearing through a violent desert environment, creating highly realistic sand displacement, dust plumes, granular turbulence, and wind-swept debris. The sandstorm must feel physically believable and extremely detailed: layered grains, airborne dust curtains, rolling dune mist, soft density changes, and directional motion shaped by speed and wind. The desert should feel hot, hostile, and monumental.\n\nGiant raptor presence:\nIn the upper background and within the sandstorm itself, reveal the hidden head of a colossal raptor bird, emerging only partially through the storm. Do not show the full animal. Only suggest the massive predatory head through faint but powerful forms:\nglowing eyes,\nthe shadowed curve of a hooked beak,\nsubtle feathered structure,\nbone-like avian facial planes,\nand a looming predatory silhouette embedded in the dust.\nThe bird should feel ancient, enormous, and terrifyingly calm, as if the storm itself has taken on the spirit of a desert raptor.\nIts presence must remain semi-hidden, atmospheric, and fused into the sandstorm, never looking like a separate pasted-in monster.\n\nVery important:\nThe giant bird must not appear as a dragon, reptile, fantasy monster, or fully visible creature.\nIt must clearly read as a colossal raptor-like bird of prey presence, hidden in dust and heat.\nNo full wings, no full body reveal, no creature standing in the desert.\nOnly a partially visible giant head and eyes, emerging through the storm.\n\nVisual relationship:\nThe Ford F-150 Raptor should feel like it is moving through the domain of a greater predator spirit, echoing the truck’s name and off-road aggression. The giant raptor presence should amplify the truck’s character, not compete with it. The truck must remain the focal point, sharp and readable, while the giant bird remains atmospheric, looming, and mythic.\n\nLighting:\nUse dramatic golden desert lighting with a warm amber core, diffused through dust and storm haze. The truck should catch crisp highlights along the hood, grille, roofline, and fenders, while the storm glows around it with deep orange-gold particulate light. The hidden bird eyes should burn subtly through the sand haze, not overly bright, just enough to create menace and scale.\nThe overall light must feel cinematic, expensive, and refined, with controlled contrast and soft transitions in the storm.\n\nBackground:\nKeep the environment minimal and powerful:\nrolling dunes,\nsand-laden wind,\nstorm density,\nand the giant avian presence fused into the atmosphere.\nNo extra scenery, no buildings, no other vehicles, no random props.\nThe scene must feel vast, empty, and mythic.\n\nTypography:\nUse minimal English typography only, in a refined bold editorial style.\nPossible text:\n“FORD”\n“F-150 RAPTOR”\n“BORN OF THE STORM”\nor\n“PREDATOR OF THE DESERT”\nKeep branding elegant, restrained, and integrated into the composition with premium spacing.\nInclude a minimal official-style Ford wordmark if needed.\n\nMood:\nferal, powerful, cinematic, mythic, predatory, dust-charged, elemental, aggressive, premium, heroic, storm-driven, desert-authority.\n\nRendering style:\nhyper-real off-road truck photography, cinematic desert storm, hidden colossal raptor head in sand, premium Ford campaign poster, extreme sand realism, mythic environmental creature fusion, luxury action advertising, 8k, world-class campaign quality.\n\nNegative prompt:\nfull bird body, dragon, reptile monster, fantasy beast, pasted creature, cartoon sandstorm, fake dust, low-detail truck, wrong Ford design, generic pickup, cluttered background, multiple vehicles, overexposed sky, cheap action poster, chaotic fire effects, unrealistic tire motion, blurry grille, muddy composition, dirty black blotches, noisy shadows",
+    "sourceLink": "https://x.com/ou_zhen599/status/2076362978165965078",
+    "sourcePublishedAt": "2026-07-12T17:48:05.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNC5GbXaEAAtjBj.jpg"
+    ],
+    "author": {
+      "name": "@ou_zhen599",
+      "link": "https://x.com/ou_zhen599"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 70,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2076362978165965078",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 2,
+      "quoteCount": 0,
+      "viewCount": 151,
+      "bookmarkCount": 1,
+      "model_evidence": "gpt-image-2"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 15,
+          "title": "Product Campaign",
+          "slug": "product-campaign"
+        }
+      ],
+      "styles": [
+        {
+          "id": 21,
+          "title": "Cinematic Realism",
+          "slug": "cinematic-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 51,
+          "title": "Product & Props",
+          "slug": "product-props"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 62,
+          "title": "Commercial Design, UI & Posters",
+          "slug": "commercial-design-ui-posters"
+        }
+      ]
+    }
+  },
+  {
+    "id": 71,
+    "model": "gpt-image-2",
+    "title": "Mascot merchandise application board",
+    "description": "A GPT Image 2 brand-system prompt for showing one fixed 3D mascot consistently across packaging, collateral, and retail-ready merchandise.",
+    "content": "Create the third image of a unified IP branding campaign for Nimm2 Vitamin Fruit Lollipops, using the already-approved crocodile mascot from image 1 as the fixed official character. This third image must be a premium brand application board / mascot merchandise presentation sheet, inspired by professional packaging and visual identity showcase layouts. The purpose is to show how the exact same IP character is applied across branded materials, packaging, shopping bags, stickers, cards, posters, and promotional goods.\n\nCritical IP consistency rule:\nThe crocodile mascot must remain absolutely identical to the approved character from image 1 in every single appearance.\nDo not redesign the mascot.\nDo not alter the head shape, snout length, eye size, smile, body proportions, limb proportions, green skin color, belly color, backpack design, sunglasses design, lollipop shape, or rendering style.\nNo off-model variations are allowed.\nEvery mascot appearance must look like the exact same official IP asset, perfectly unified across all applications.\n\nCharacter design:\nA cute 3D cartoon baby crocodile mascot with Disney-level charm and polished commercial rendering quality, cheerful and adventurous, with smooth green skin, rounded snout, bright expressive eyes, friendly smile, a small brown travel backpack, oversized cartoon sunglasses on the head, and a pink Nimm2 lollipop in hand. The character must feel lovable, collectible, and instantly recognizable as the official Nimm2 Vitamin Fruit Lollipops mascot.\n\nBoard concept:\nDesign a clean, premium merchandise and packaging application board in the same series as image 2, but this time focused more on real branded collateral and retail applications.\nThe board should feel like an agency-level brand presentation sheet, with neatly arranged mockups and cohesive spacing on a warm, playful, candy-brand background.\n\nLayout:\nUse a vertical poster layout with multiple carefully arranged object mockups placed across the canvas, similar to a professional branding showcase.\nInclude a mix of branded applications such as:\nshopping bags,\nproduct gift bags,\nsticker sheets,\nbadge pins,\nbrand cards,\npostcards,\nsmall posters,\nlabel tags,\npromotional packaging boxes,\ndisplay cards,\ntakeaway-style paper packaging,\nwrappers,\nand simple branded merchandise.\nArrange them in a visually pleasing, balanced layout with clear negative space and a polished presentation rhythm.\n\nMascot usage:\nSome items should feature the full mascot prominently.\nSome items should use cropped mascot artwork.\nSome should use mascot-plus-logo lockups.\nSome can use repeat patterns based on the mascot and lollipop.\nAll mascot appearances must remain perfectly consistent and unified, with no stylistic drift.\n\nLogo and brand system:\nFeature the Nimm2 Vitamin Fruit Lollipops logo across the applications in a clean and repeatable system.\nThe logo should feel cheerful, candy-like, and international.\nUse the brand colors established in image 1, including fresh green, candy pink, lemon yellow, orange, berry purple, and aqua blue.\n\nVisual style:\nBright, premium, playful, clean, collectible, retail-ready, and highly commercial.\nThe overall board should blend graphic design clarity with cute character branding, creating a polished visual identity presentation.\nUse soft warm neutrals or candy-toned backgrounds with colorful brand accents and professional packaging mockup realism.\n\nTypography:\nUse English branding only.\nPossible text elements:\n“Nimm2”\n“Vitamin Fruit Lollipops”\n“Official Mascot Applications”\n“Brand Merchandise”\n“Packaging System”\nTypography should feel rounded, cute, refined, and modern, never crude or overly heavy.\n\nMaterials and realism:\nAll packaging materials should look realistic and premium: paper bags, coated cards, matte stickers, glossy labels, cardboard boxes, printed signage, and branded retail pieces should all have believable texture, lighting, and mockup quality.\nThe mascot itself should retain a slightly dimensional 3D look even when printed, as if it is part of a highly developed international confectionery IP system.\n\nMood:\nadorable, unified, collectible, branded, polished, retail-friendly, joyful, colorful, family-oriented, premium, professionally designed.\n\nRendering style:\npremium mascot merchandise board, professional packaging identity sheet, official IP application showcase, consistent 3D crocodile mascot, candy brand collateral system, retail mockup presentation, agency-level visual branding board, 8k, world-class quality.\n\nNegative prompt:\ndifferent crocodile design, altered mascot face, off-model character, inconsistent backpack, different sunglasses, changed proportions, ugly mascot, scary reptile, inconsistent render style, messy layout, amateur mockups, low-detail packaging, blurry logo, crude typography, deformed hands, extra fingers, broken anatomy, cluttered branding board, random mascot redesign",
+    "sourceLink": "https://x.com/ou_zhen599/status/2076350867771719975",
+    "sourcePublishedAt": "2026-07-12T16:59:58.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNCt_BLboAAsNf9.jpg",
+      "https://pbs.twimg.com/media/HNCuAS3awAAP0xl.jpg"
+    ],
+    "author": {
+      "name": "@ou_zhen599",
+      "link": "https://x.com/ou_zhen599"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 71,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2076350867771719975",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 1,
+      "replyCount": 0,
+      "likeCount": 11,
+      "quoteCount": 0,
+      "viewCount": 234,
+      "bookmarkCount": 5,
+      "model_evidence": "gpt-image-2"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 17,
+          "title": "Infographic & Typography",
+          "slug": "infographic-typography"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 51,
+          "title": "Product & Props",
+          "slug": "product-props"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 62,
+          "title": "Commercial Design, UI & Posters",
+          "slug": "commercial-design-ui-posters"
+        }
+      ]
+    }
   }
 ]
