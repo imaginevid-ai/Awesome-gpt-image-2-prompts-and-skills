@@ -99,9 +99,9 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 
 | Kipimo | Idadi |
 |--------|-------|
-| Jumla ya Prompt | **71** |
+| Jumla ya Prompt | **76** |
 | Iliyochaguliwa | **12** |
-| Ilisasishwa Mwisho | **Jumatatu, 13 Julai 2026 saa 20:54:41 UTC** |
+| Ilisasishwa Mwisho | **Jumanne, 14 Julai 2026 saa 00:42:25 UTC** |
 
 </div>
 
@@ -836,7 +836,7 @@ Create a dense, clean, production-ready anime pre-production board combining a c
 
 <a id="workflow-directed-editing-input-control"></a>
 
-### Directed Editing & Input Control (9)
+### Directed Editing & Input Control (10)
 
 Prompts that modify an existing image or use regions, sketches, references, and positional instructions to control the result.
 
@@ -1088,9 +1088,46 @@ Extreme close-up split-screen comparison image of a young woman’s face, croppe
 
 ---
 
+<a id="prompt-76"></a>
+
+#### No. 7: Storm-sea double-exposure portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Maelezo
+
+A GPT Image 2 reference-preserving art prompt that fuses a portrait with ocean weather, smoke, birds, and restrained cinematic symbolism.
+
+##### Prompt
+
+```
+Use the reference image only for facial composition, hairstyle, pose, lighting, and overall artistic mood. Preserve the person's identity and facial features while transforming the portrait into a surreal double-exposure artwork with a stormy ocean, dissolving smoke, flying crows, mist, and distant power lines. Maintain the same cinematic gray-blue color palette and emotional atmosphere as the reference.
+
+A haunting surreal double-exposure portrait of a young man with wild, windswept curly hair, staring directly into the camera with an intense, melancholic expression. The left side of his face dissolves into a violent stormy seascape, seamlessly transforming into swirling black smoke, mist, and hundreds of flying crows dispersing into an overcast sky. His curls merge naturally with the smoke and drifting birds, creating a dreamlike transition between human and nature. Faint broken power lines and distant utility poles disappear into a fog-covered horizon, symbolizing isolation, fragility, and inner turmoil. Moody gray-blue and desaturated teal color grading, cinematic atmosphere, soft diffused lighting, volumetric fog, subtle film grain, high contrast, ultra-realistic skin texture, emotional storytelling, surreal symbolism, dark fine-art photography, hyper-detailed, photorealistic, masterpiece, 8K, award-winning composition.
+```
+
+##### Picha Zilizozalishwa
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNHx6CfaoAIUX-F.jpg" width="100%" alt="Storm-sea double-exposure portrait - Image 1"></td>
+</tr>
+</table>
+
+##### Maelezo ya kina
+
+- **Mwandishi:** [@aileveraage](https://x.com/aileveraage)
+- **Chanzo:** [Chanzo](https://x.com/aileveraage/status/2076706904798372056)
+- **Ilichapishwa:** 13 Julai 2026
+- **Lugha:** en
+
+**[Tumia prompt hii · GPT Image 2 Library](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
+
+---
+
 <a id="workflow-commercial-design-ui-posters"></a>
 
-### Commercial Design, UI & Posters (40)
+### Commercial Design, UI & Posters (43)
 
 Production briefs for advertisements, product campaigns, interfaces, posters, typography, and other designed assets.
 
@@ -1104,7 +1141,7 @@ Production briefs for advertisements, product campaigns, interfaces, posters, ty
 
 <a id="prompt-15"></a>
 
-#### No. 7: Luxury studio fashion editorial 4
+#### No. 8: Luxury studio fashion editorial 4
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1140,7 +1177,7 @@ A soft minimalist portrait of a young woman with sleek dark violet-black bob hai
 
 <a id="prompt-17"></a>
 
-#### No. 8: Korean doodle editorial scene
+#### No. 9: Korean doodle editorial scene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1228,7 +1265,7 @@ over-rendered characters.
 
 <a id="prompt-18"></a>
 
-#### No. 9: Candid smartphone lifestyle portrait 2
+#### No. 10: Candid smartphone lifestyle portrait 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1264,7 +1301,7 @@ Photorealistic candid smartphone snapshot of a stylish young East Asian woman st
 
 <a id="prompt-19"></a>
 
-#### No. 10: Modular editorial collage poster 2
+#### No. 11: Modular editorial collage poster 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1299,7 +1336,7 @@ Modern Editorial Collage Poster Design, The Background Features Four Stacked Rou
 
 <a id="prompt-20"></a>
 
-#### No. 11: Parking garage motion portrait
+#### No. 12: Parking garage motion portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1339,7 +1376,7 @@ the other hand holding a jacket at her side, skirt swinging slightly, handheld e
 
 <a id="prompt-21"></a>
 
-#### No. 12: Luxury studio fashion editorial 5
+#### No. 13: Luxury studio fashion editorial 5
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1374,7 +1411,7 @@ Glamorous girl with long voluminous wavy blonde hair, soft glam makeup with wing
 
 <a id="prompt-22"></a>
 
-#### No. 13: Premium food and beverage campaign 3
+#### No. 14: Premium food and beverage campaign 3
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1428,7 +1465,7 @@ Aspect Ratio: 9:16 vertical.
 
 <a id="prompt-23"></a>
 
-#### No. 14: Handcrafted paper diorama portrait
+#### No. 15: Handcrafted paper diorama portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1475,7 +1512,7 @@ Art style: premium layered papercraft illustration, 3D paper cut collage, cute r
 
 <a id="prompt-26"></a>
 
-#### No. 15: Identity-preserving reference edit 5
+#### No. 16: Identity-preserving reference edit 5
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1519,7 +1556,7 @@ Negative prompt: cartoon, CGI, illustration, anime, painting, overprocessed skin
 
 <a id="prompt-28"></a>
 
-#### No. 16: Flat-vector doodle character poster 2
+#### No. 17: Flat-vector doodle character poster 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1556,7 +1593,7 @@ Playful flat-vector poster illustration of the reference image posing with [subj
 
 <a id="prompt-29"></a>
 
-#### No. 17: Flat-vector doodle character poster 3
+#### No. 18: Flat-vector doodle character poster 3
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1641,7 +1678,7 @@ Negative Prompt: low quality, blurry, oversaturated colors, modern minimalist st
 
 <a id="prompt-30"></a>
 
-#### No. 18: Low-key monochrome portrait edit 2
+#### No. 19: Low-key monochrome portrait edit 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1702,7 +1739,7 @@ Camera: elevated telephoto perspective, centered composition, full-body shot, ey
 
 <a id="prompt-33"></a>
 
-#### No. 19: Modular editorial collage poster 3
+#### No. 20: Modular editorial collage poster 3
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1755,7 +1792,7 @@ Aspect Ratio: 4:5.
 
 <a id="prompt-34"></a>
 
-#### No. 20: Paper-collage travel bookmark
+#### No. 21: Paper-collage travel bookmark
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1816,7 +1853,7 @@ Avoid photorealism, CGI, glossy materials, excessive architectural detail, heavy
 
 <a id="prompt-35"></a>
 
-#### No. 21: Premium food and beverage campaign 4
+#### No. 22: Premium food and beverage campaign 4
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1864,7 +1901,7 @@ Minimal composition, lots of negative space, bright high-key lighting, soft shad
 
 <a id="prompt-36"></a>
 
-#### No. 22: Luxury studio fashion editorial 9
+#### No. 23: Luxury studio fashion editorial 9
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1905,7 +1942,7 @@ High-fashion editorial photography, young woman with sleek pulled-back hair, dyn
 
 <a id="prompt-39"></a>
 
-#### No. 23: Minimal premium product advertisement
+#### No. 24: Minimal premium product advertisement
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1946,7 +1983,7 @@ Ultra-photorealistic, seamless blend of reality and fantasy, cinematic compositi
 
 <a id="prompt-40"></a>
 
-#### No. 24: Minimal premium product advertisement 2
+#### No. 25: Minimal premium product advertisement 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1988,7 +2025,7 @@ Photorealistic, premium editorial fashion photography, authentic football cultur
 
 <a id="prompt-41"></a>
 
-#### No. 25: Minimal premium product advertisement 3
+#### No. 26: Minimal premium product advertisement 3
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -2033,7 +2070,7 @@ Include realistic movie credits, production logos, Dolby Cinema, IMAX branding, 
 
 <a id="prompt-43"></a>
 
-#### No. 26: Flat-vector doodle character poster 4
+#### No. 27: Flat-vector doodle character poster 4
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2070,7 +2107,7 @@ Create a premium editorial scrapbook collage featuring [SUBJECT] standing full-b
 
 <a id="prompt-45"></a>
 
-#### No. 27: Premium food and beverage campaign 5
+#### No. 28: Premium food and beverage campaign 5
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2119,7 +2156,7 @@ Photography style: luxury fashion editorial, magazine cover quality, minimalist 
 
 <a id="prompt-46"></a>
 
-#### No. 28: Floating sports shoe campaign
+#### No. 29: Floating sports shoe campaign
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2157,7 +2194,7 @@ Bold graphic cartoon illustration of [HUMAN], full body, wearing [CLOTHING], mid
 
 <a id="prompt-47"></a>
 
-#### No. 29: Paper-collage travel bookmark 2
+#### No. 30: Paper-collage travel bookmark 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -2228,7 +2265,7 @@ Avoid mobile app UI elements, device frames, navigation icons, hearts, menus, or
 
 <a id="prompt-48"></a>
 
-#### No. 30: Luxury studio fashion editorial 11
+#### No. 31: Luxury studio fashion editorial 11
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -2271,7 +2308,7 @@ Negative Prompt: Color, smile, text, watermark, logo, extra people, extra limbs,
 
 <a id="prompt-49"></a>
 
-#### No. 31: Cinematic community prompt
+#### No. 32: Cinematic community prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2309,7 +2346,7 @@ Retro motorsport poster for [CAR], 4:5 vertical. Show a front-facing low-angle h
 
 <a id="prompt-50"></a>
 
-#### No. 32: Premium food and beverage campaign 6
+#### No. 33: Premium food and beverage campaign 6
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -2348,7 +2385,7 @@ Use the uploaded food/beverage image as the main reference. Preserve the exact p
 
 <a id="prompt-51"></a>
 
-#### No. 33: Identity-preserving reference edit 7
+#### No. 34: Identity-preserving reference edit 7
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -2392,7 +2429,7 @@ Camera: Full-frame DSLR, 50mm lens, f/2.2, ISO 100, 1/500s, overhead drone-style
 
 <a id="prompt-53"></a>
 
-#### No. 34: Identity-preserving reference edit 8
+#### No. 35: Identity-preserving reference edit 8
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -2434,7 +2471,7 @@ Shot on a full-frame camera, 85mm lens, f/2.8, ISO 100, HDR, ultra-sharp focus, 
 
 <a id="prompt-54"></a>
 
-#### No. 35: Cinematic community prompt 2
+#### No. 36: Cinematic community prompt 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2470,7 +2507,7 @@ A cinematic portrait photograph of a young woman in her mid-20s with long straig
 
 <a id="prompt-56"></a>
 
-#### No. 36: Identity-preserving reference edit 10
+#### No. 37: Identity-preserving reference edit 10
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2506,7 +2543,7 @@ Reference the character from the provided image. Create a high-quality photo of 
 
 <a id="prompt-57"></a>
 
-#### No. 37: Autumn staircase Zen wallpaper poster
+#### No. 38: Autumn staircase Zen wallpaper poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2541,7 +2578,7 @@ Create an Eastern Zen minimalist poster with a high-contrast seasonal aesthetic.
 
 <a id="prompt-63"></a>
 
-#### No. 38: Goldfish lantern Zen wallpaper poster
+#### No. 39: Goldfish lantern Zen wallpaper poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2576,7 +2613,7 @@ Create a vertical 9:16 East Asian Zen minimalist poster with a high-contrast, ce
 
 <a id="prompt-69"></a>
 
-#### No. 39: Ford Mustang ink-wash campaign poster
+#### No. 40: Ford Mustang ink-wash campaign poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2678,7 +2715,7 @@ gray car, desaturated vehicle, car blending into background, generic sports car,
 
 <a id="prompt-70"></a>
 
-#### No. 40: Ford Raptor desert predator campaign
+#### No. 41: Ford Raptor desert predator campaign
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2787,7 +2824,7 @@ full bird body, dragon, reptile monster, fantasy beast, pasted creature, cartoon
 
 <a id="prompt-71"></a>
 
-#### No. 41: Mascot merchandise application board
+#### No. 42: Mascot merchandise application board
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2893,6 +2930,426 @@ different crocodile design, altered mascot face, off-model character, inconsiste
 
 ---
 
+<a id="prompt-72"></a>
+
+#### No. 43: Transparent vacuum engineering cutaway
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Maelezo
+
+A GPT Image 2 technical campaign prompt for a laboratory-grade transparent product cutaway, with physically legible airflow and pressure-map detail.
+
+##### Prompt
+
+```
+Create an ultra-premium flagship campaign poster for Miele Triflex HX2, designed as Poster 3 in a cohesive series, combining a laboratory-grade transparent cutaway housing with a deep-violet pressure-map visualization system. The image must feel hyper-real, scientifically precise, visually striking, and exceptionally refined, showing the internal engineering truth of the product through a clean experimental-display aesthetic. The final result should look like a world-class German engineering poster, not a generic tech ad or fantasy CGI render.
+
+Core concept:
+The hero is the Miele Triflex HX2 shown in an extreme macro close-up with an ultra-clean transparent outer shell, revealing the internal airflow logic, brush interaction, particle routing, suction pressure zones, and internal engineering architecture. The image should feel like a premium laboratory demonstration model fused with a luxury advertising visual. The transparent shell must be crystal-clear, disciplined, and elegant, while the internal airflow system is visualized as a deep-violet pressure map with luminous gradients and technically believable flow behavior.
+
+Composition:
+Use a strong vertical poster layout with one enlarged close-up of the Miele Triflex HX2 floorhead or lower cleaning assembly dominating the frame. Show the product in a side or three-quarter cutaway view, with the housing partially transparent and precisely sectioned to expose internal systems. The product should fill most of the image and feel sculptural, premium, and technically exact.
+Inside the product, organize the visible internal zones clearly:
+intake edge,
+brush-roll interaction area,
+pressure-compression regions,
+particle transport channels,
+dust-routing pathway,
+and chamber transition logic.
+Leave controlled negative space for title placement and refined technical annotation.
+
+Product realism:
+Render the Miele Triflex HX2 with absolute realism and exact premium-brand fidelity:
+accurate floorhead geometry,
+true shell thickness,
+precise transparent material behavior,
+realistic internal partitions,
+authentic brush-roll structure,
+engineered airflow channel routing,
+subtle metallic components,
+premium matte and satin outer-surface transitions,
+and unmistakable Miele industrial design language.
+The product must feel physically exact, luxurious, and mechanically credible in every detail.
+
+Transparent shell design:
+Make the transparent housing exceptionally clean, laboratory-grade, and premium. The shell should feel like polished scientific demonstration material:
+crystal-clear transparency,
+minimal distortion,
+precise edge definition,
+clean sectional boundaries,
+subtle reflection control,
+and elegant material depth.
+The transparency should reveal the internal structure without visual clutter. It must feel more like a high-end engineering prototype or museum-grade lab display than a consumer cutaway graphic.
+
+Deep violet pressure-map system:
+Visualize the internal performance using a refined pressure-map language built around deep violet, electric indigo, and controlled blue-violet gradients. Show different airflow and pressure regions through:
+luminous pressure bands,
+flow-density gradients,
+velocity-transition ribbons,
+micro turbulence zones,
+fine-particle lift behavior,
+and directional suction streams.
+The violet-map visualization should feel scientifically grounded and product-specific, not decorative. Pressure intensity should shift naturally across internal zones, from concentrated intake regions to routed channel flow and separation logic. Keep the system elegant, readable, and visually powerful.
+
+Airflow and particle simulation:
+Use highly realistic internal physics visualization:
+fine dust suspension,
+micro-debris acceleration,
+brush agitation behavior,
+channel-guided suction flow,
+pressure compression around the intake path,
+and smooth routing toward the inner collection zone.
+Particles must move according to believable suction mechanics and internal geometry. The interaction between structure and effect must feel rigorous and physically justified.
+
+Environment:
+Use a minimal premium technical-lab environment with a refined neutral platform or floor. The background should be clean, quiet, and controlled, supporting the product without distraction. A subtle studio-lab gradient or pale neutral technical backdrop is preferred, helping the transparent shell and violet pressure-map effects stand out with maximum clarity.
+
+Typography:
+Use only elegant English typography with strong premium technical hierarchy.
+Possible title directions:
+“MIELE TRIFLEX HX2”
+“DEEP VIOLET PRESSURE MAP”
+“ENGINEERED FROM WITHIN”
+“VISIBLE FLOW LOGIC”
+“LAB-GRADE PRECISION”
+Use refined supporting text such as:
+“Transparent Structural Reveal”
+“Pressure-Zone Visualization”
+“Internal Particle Routing”
+Typography should feel clean, modern, and luxurious, with restrained technical callouts and minimal annotation lines.
+
+Graphic accents:
+Add only subtle engineering-style graphic marks:
+fine callout lines,
+pressure-zone indicators,
+cutaway boundary labels,
+micro arrows,
+transparent structure markers,
+and minimal calibration-style notation.
+Everything must remain premium, sparse, and precise.
+
+Brand coding:
+Preserve Miele identity through:
+German precision,
+quiet luxury,
+timeless engineering,
+technical intelligence,
+premium material discipline,
+and refined industrial design clarity.
+The poster should communicate that Miele Triflex HX2 is engineered beautifully both outside and inside.
+
+Lighting:
+Use exquisitely controlled studio-lab lighting with scientific precision. The lighting should define the transparent shell, internal structures, and pressure-map glow with exceptional clarity. Transparent surfaces should show subtle controlled reflections, never messy glare. Internal violet illumination should appear embedded and physically integrated, while the product exterior remains solid, premium, and realistic.
+Shadows should be soft, smooth, and elegant.
+
+Color direction:
+Use a premium precision-tech palette built around:
+deep violet,
+electric indigo,
+cool ultraviolet blue,
+ice silver,
+smoked titanium,
+and restrained white highlights.
+The internal pressure-map system should lead with violet and indigo gradients, while the outer housing remains neutral, clean, and laboratory-premium. The final palette should feel colder, sharper, and more advanced than earlier posters.
+
+Mood:
+technical, hyper-real, premium, laboratory-grade, precise, engineered, controlled, luxurious, visually striking, intelligent, futuristic but believable.
+
+Rendering style:
+hyper-real Miele Triflex HX2 engineering poster, laboratory-grade transparent cutaway housing, deep violet pressure-map visualization, realistic airflow and internal particle simulation, premium technical studio environment, elegant English typography, German industrial design precision, world-class appliance realism, 8k.
+
+Negative prompt:
+generic tech ad, fake CGI fantasy structure, impossible internal geometry, cartoon airflow, messy infographic layout, cheap transparent plastic look, oversaturated neon glow, unrealistic particle behavior, cluttered background, weak product focus, low-detail cross-section, gimmicky sci-fi effects, low-end retail flyer
+```
+
+##### Picha Zilizozalishwa
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNISGIBbsAA_psv.jpg" width="100%" alt="Transparent vacuum engineering cutaway - Image 1"></td>
+</tr>
+</table>
+
+##### Maelezo ya kina
+
+- **Mwandishi:** [@ou_zhen599](https://x.com/ou_zhen599)
+- **Chanzo:** [Chanzo](https://x.com/ou_zhen599/status/2076742391588131014)
+- **Ilichapishwa:** 13 Julai 2026
+- **Lugha:** en
+
+**[Tumia prompt hii · GPT Image 2 Library](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
+
+---
+
+<a id="prompt-73"></a>
+
+#### No. 44: Four-panel vacuum campaign board
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Maelezo
+
+A GPT Image 2 branded layout prompt that turns four distinct home-cleaning moments into one restrained, premium appliance campaign system.
+
+##### Prompt
+
+```
+Create an ultra-premium editorial campaign board for Miele Triflex HX1 / HX2 in a “Miele Red Signature” direction, designed as a luxury four-panel horizontal home-lifestyle poster system. The image must feel hyper-real, architectural, refined, and unmistakably premium, combining four distinct domestic cleaning scenarios into one cohesive branded campaign layout. The final result should look like a world-class Miele advertising master visual, not a generic appliance catalog or e-commerce collage.
+
+Core concept:
+The hero is the Miele Triflex HX1 / HX2 cordless vacuum system, presented across four different real home environments and usage situations, with the iconic Miele red acting as the subtle visual signature unifying the entire campaign. Each panel should communicate a different cleaning function, lifestyle need, and product benefit, while the product remains the dominant visual focus. The overall board should express German precision, quiet luxury, modular intelligence, and beautifully controlled modern living.
+
+Composition:
+Use a premium four-panel campaign board made of four stacked horizontal scenes. Each panel must feel clearly different in environment, action, and function, yet all four should belong to one consistent luxury design language. Use elegant spacing, clean negative space, disciplined typography placement, and strong product hierarchy.
+The four panels should be:
+1. extreme close-up floor pickup action,
+2. refined real living-room lifestyle scene,
+3. premium modular product display still life,
+4. close-up handheld or detail-cleaning function scene.
+Across all four panels, integrate restrained red accents that echo Miele’s identity, such as a red chair, a red throw, a red book spine, a fine red line graphic, a red object in the background, or a controlled red surface detail. These red elements must feel deliberate, sparse, and luxurious.
+
+Panel 1 – Fine Dust Precision:
+Show a hyper-real close-up of the Miele Triflex floorhead vacuuming fine dust, crumbs, and powder across a dark premium hard floor. The suction path should feel crisp and highly believable, with elegant debris flow and exceptional floorhead detail. Use a dramatic close angle and subtle directional light to emphasize engineering precision.
+Introduce one restrained Miele red accent in the environment or in a precision graphic line, keeping the product as the main focus.
+
+Panel 2 – Real Living Space:
+Show a luxurious modern living room with a healthy athletic Western female model using the Miele Triflex in a believable premium lifestyle moment. The room should feel warm, calm, and architecturally clean, with refined furniture, soft textiles, and spacious composition. The vacuum should be actively used on a rug or floor area, with realistic posture and natural movement.
+Integrate a Miele red signature through one elegant object such as a cushion, chair detail, throw blanket, or art accent. The red must act as a visual anchor, not a distraction.
+
+Panel 3 – Modular Design Display:
+Create a sculptural product-led still-life panel that showcases the Miele Triflex HX1 / HX2 system, attachments, and modular flexibility in a luxury interior setting. The arrangement should feel like a premium industrial design presentation: clean, balanced, and highly intentional. Emphasize form, engineering, and component elegance.
+Use a very controlled red signature element, such as a red platform edge, red spine book, red accessory cue, or minimal red graphic line to reinforce brand recall.
+
+Panel 4 – Handheld Precision Detail:
+Show a close-up functional use scene in handheld mode cleaning upholstery, sofa creases, stairs, or tight interior corners. Focus on tactile realism: fabric texture, dust pickup, transparent dust canister detail, and the refined ergonomics of the product in use. The framing should feel intimate, precise, and elegant.
+Place one small but sharp Miele red detail in the scene, such as a nearby design object or a clean linear graphic marker.
+
+Product realism:
+Render the Miele Triflex HX1 / HX2 with absolute realism and exact premium-brand fidelity:
+accurate cordless vacuum proportions,
+refined body geometry,
+authentic floorhead engineering,
+true dust canister transparency,
+premium matte and satin surface transitions,
+accurate handle and wand construction,
+realistic attachments,
+subtle metallic detailing,
+and unmistakable Miele design language.
+The product must feel engineered, luxurious, durable, and physically real, with perfect industrial-design clarity.
+
+Environment styling:
+Use four different but visually related premium home environments:
+dark charcoal flooring,
+warm taupe walls,
+soft stone-grey textiles,
+modern architectural furniture,
+clean shelving,
+minimal clutter,
+and sophisticated spatial composition.
+All interiors should feel global, high-end, and calm. Every scene must be elegant enough to support the product and brand without becoming sterile.
+
+People direction:
+If people appear, use healthy athletic Western adult models with natural editorial beauty, non-influencer faces, and believable body language. Their role is to support the product story, not overpower it. Styling should be luxurious minimal homewear: knitwear, lounge tailoring, soft contemporary basics, neutral tones, and refined domestic elegance.
+
+Typography:
+Use only elegant English typography with strong premium campaign hierarchy.
+Possible title directions:
+“MIELE TRIFLEX HX1 / HX2”
+“THE RED SIGNATURE OF PRECISION”
+“ONE SYSTEM. FOUR MOMENTS.”
+“CLEANING, REFINED.”
+“ENGINEERED FOR EVERYDAY LUXURY”
+Use one strong clean master title and then smaller feature labels across the four panels, such as:
+“Fine Dust Pickup”
+“Living Room Reach”
+“Modular Freedom”
+“Handheld Precision”
+Typography should be modern, minimal, and beautifully spaced, with subtle red graphic punctuation lines or dividers to strengthen the brand system.
+
+Graphic accents:
+Add extremely restrained premium graphic marks only where useful:
+fine red divider lines,
+small callout marks,
+minimal arrows,
+subtle feature indicators,
+clean modular labels.
+These accents must feel intelligent and technical, never noisy or gimmicky.
+
+Brand coding:
+Preserve Miele identity through:
+German precision,
+quiet luxury,
+timeless engineering,
+high-performance domestic care,
+modular intelligence,
+and refined premium living.
+The campaign should communicate that Miele Triflex HX1 / HX2 is a beautifully engineered design object integrated into elevated modern life.
+
+Lighting:
+Use exquisitely soft high-end interior lighting with delicate shadow transitions and controlled highlights. Each panel should have slightly different lighting behavior according to the environment, but all must feel unified by premium realism and tactile calm. The vacuum body, floor textures, rug fibers, upholstery, and dust details should all be rendered with exceptional softness and clarity.
+
+Color direction:
+Use a restrained Miele luxury palette built around:
+graphite black,
+deep charcoal,
+warm greige,
+soft taupe,
+stone grey,
+clean ivory,
+and precisely controlled Miele red accents.
+The red should never dominate the full scene; it should function as a premium signature cue that creates brand memory and visual rhythm across the board.
+
+Mood:
+premium, precise, architectural, intelligent, hyper-real, calm, luxurious, product-led, tactile, modern, editorial, refined, distinctly branded.
+
+Rendering style:
+hyper-real Miele Triflex HX1 / HX2 luxury campaign board, four stacked horizontal home-environment panels, refined modern interiors, real product usage, modular product display, elegant English typography, restrained Miele red signature accents, soft premium interior lighting, world-class appliance advertising realism, 8k.
+
+Negative prompt:
+generic appliance catalog, cheap retail flyer, cluttered home scene, wrong vacuum proportions, plastic-looking materials, exaggerated mess, cartoon dust, low-detail floorhead, weak product focus, messy typography, influencer lifestyle aesthetic, bad anatomy, bright cheap red overload, overdecorated layout, low-end e-commerce collage
+```
+
+##### Picha Zilizozalishwa
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNIOwx3bQAE1MLF.jpg" width="100%" alt="Four-panel vacuum campaign board - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNIOytTaYAAxM51.jpg" width="100%" alt="Four-panel vacuum campaign board - Image 2"></td>
+</tr>
+</table>
+
+##### Maelezo ya kina
+
+- **Mwandishi:** [@ou_zhen599](https://x.com/ou_zhen599)
+- **Chanzo:** [Chanzo](https://x.com/ou_zhen599/status/2076738655260139854)
+- **Ilichapishwa:** 13 Julai 2026
+- **Lugha:** en
+
+**[Tumia prompt hii · GPT Image 2 Library](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
+
+---
+
+<a id="prompt-74"></a>
+
+#### No. 45: Desert trail sneaker field journal
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Maelezo
+
+A GPT Image 2 product campaign prompt that layers a real desert journey with expressive field notes while preserving tactile footwear detail.
+
+##### Prompt
+
+```
+Create an ultra-premium editorial campaign poster for New Balance 2002R in a “Desert Trail Journal” direction, blending hyper-real outdoor travel photography with expressive hand-drawn exploration notes. The image must feel bold, adventurous, sun-washed, emotionally free, and intelligently designed, transforming a female backpacker journey across desert trails into a premium visual field journal centered on the New Balance 2002R. The final result should look like a world-class New Balance campaign poster, not a generic hiking ad or scrapbook collage.
+
+Core concept:
+The hero concept is a real female backpacker crossing a vast desert trail landscape, wearing authentic New Balance 2002R as the key product focus, while the image is layered with elegant hand-drawn journey records, route notes, symbols, and field-journal annotations. The scene should communicate freedom, endurance, discovery, and long-distance movement. The shoe must remain clearly visible, tactile, and important, while the illustrated note system expands the emotional narrative of the journey.
+
+Composition:
+Use a vertical poster layout with a strong central or slightly off-center composition. Place a healthy athletic Western female backpacker standing or walking on a desert trail, canyon edge, dry ridge path, or open sandy route, creating a strong feeling of distance and exploration. Her posture should feel natural, self-possessed, and quietly determined, as if she has paused during a long journey to scan the horizon.
+The New Balance 2002R must be clearly visible on her feet, rendered with strong product realism and enough presence to remain the visual anchor. Surround the scene with clean white or sun-faded chalk-like hand-drawn journal graphics across the sky, side margins, and open ground areas: route arrows, mileage counts, elevation notes, mini map fragments, desert symbols, camp icons, weather marks, handwritten observations, coordinates, and trail marks. The composition should feel rich and immersive, but still premium and beautifully controlled.
+
+Product realism:
+Render the New Balance 2002R with absolute realism and exact brand fidelity:
+premium suede overlays,
+technical mesh underlays,
+layered retro-running structure,
+iconic oversized N logo,
+precise heel support geometry,
+refined stitching,
+segmented cushioning language,
+real outsole depth,
+and authentic New Balance 2002R proportions.
+The shoe must feel tactile, expensive, and physically real, with believable suede nap, breathable mesh texture, subtle desert dust traces, and natural tonal separation. It must remain unmistakably New Balance 2002R, never generic trail footwear.
+
+Backpacker direction:
+Use a healthy athletic Western female model with natural editorial beauty, strong posture, and a non-influencer face. She should feel capable, independent, and sun-weathered in a refined way. Style her in premium lightweight travel gear: a technical backpack, fitted performance layers, breathable trail pants or shorts, a minimal utility jacket or shirt, and clean functional accessories.
+Her expression should feel thoughtful, calm, and driven by curiosity. She should look like a real long-distance traveler elevated into a premium campaign image.
+
+Hand-drawn record language:
+Integrate expressive, clean, spontaneous hand-drawn field-journal graphics as if documenting the journey across the desert in real time. Include:
+mileage counts,
+route lines,
+mini maps,
+elevation notes,
+sun icons,
+wind symbols,
+tent sketches,
+distance marks,
+handwritten observations,
+coordinate notations,
+and directional arrows.
+The linework should feel fast, intelligent, natural, and premium, like a travel notebook mixed with design sketches. Keep the marks clean and stylish, never childish or chaotic.
+
+Environment:
+Set the scene in a real desert-trail environment with open sky, weathered rock, dry ridges, sand-toned earth, canyon edges, dusty trails, and distant layered landforms. The environment should feel expansive, cinematic, and physically believable, with enough negative space to support the hand-drawn record system. Avoid clutter. The landscape should communicate openness, heat, resilience, and long-distance movement.
+
+Typography:
+Use only elegant English typography with a strong premium editorial hierarchy.
+Possible title directions:
+“NEW BALANCE 2002R”
+“DESERT TRAIL JOURNAL”
+“RECORDED IN MOTION”
+“DISTANCE / DUST / DIRECTION”
+“WORN ACROSS THE HORIZON”
+Typography should be minimal, official, and intelligently placed, working together with the hand-drawn note system. The main title should feel clean and modern, while supporting lines remain restrained and editorial.
+
+Brand coding:
+Preserve New Balance identity through:
+authentic movement heritage,
+quiet performance,
+material honesty,
+all-day comfort,
+outdoor adaptability,
+and understated confidence.
+The poster should communicate that New Balance 2002R is a trusted companion for meaningful travel and real-world exploration.
+
+Lighting:
+Use exquisitely soft natural desert light with refined cinematic polish. The light should feel warm but controlled, with delicate highlights on the shoe, skin, backpack, and dry landscape surfaces. Shadows should remain smooth, soft, and elegant. The overall image should feel breathable, tactile, and emotionally expansive, with the product remaining the sharpest and most desirable object.
+
+Color direction:
+Use a premium desert-travel palette built around:
+sand beige,
+sun-bleached ivory,
+clay brown,
+faded sky blue,
+weathered stone grey,
+and muted silver-grey.
+Allow the hand-drawn notes to appear in crisp white or chalk-white so they float clearly over the warm environment. The final palette should feel sun-washed, exploratory, elevated, and globally premium.
+
+Mood:
+free, adventurous, documentary, premium, open, tactile, exploratory, emotionally grounded, sun-washed, intelligent, quietly bold, long-distance, travel-driven.
+
+Rendering style:
+hyper-real New Balance 2002R campaign poster, female backpacker in a real desert trail environment, premium field-journal hand-drawn overlays, clean English editorial typography, soft sun-washed natural lighting, authentic exploration energy, world-class product realism, 8k.
+
+Negative prompt:
+generic hiking ad, messy scrapbook look, cartoon doodles, fake New Balance silhouette, weak shoe detail, low-detail suede, plastic materials, influencer aesthetic, cluttered desert scene, childish handwriting, poor anatomy, random props, cheap travel poster, low-end typography, toy-like backpack gear, oversaturated colors
+```
+
+##### Picha Zilizozalishwa
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNHzqZEaoAExOhK.jpg" width="100%" alt="Desert trail sneaker field journal - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNHzqZEaQAAsKH9.jpg" width="100%" alt="Desert trail sneaker field journal - Image 2"></td>
+</tr>
+</table>
+
+##### Maelezo ya kina
+
+- **Mwandishi:** [@ou_zhen599](https://x.com/ou_zhen599)
+- **Chanzo:** [Chanzo](https://x.com/ou_zhen599/status/2076708826829725705)
+- **Ilichapishwa:** 13 Julai 2026
+- **Lugha:** en
+
+**[Tumia prompt hii · GPT Image 2 Library](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
+
+---
+
 <a id="workflow-diagrams-technical-storyboards"></a>
 
 ### Diagrams, Technical Art & Storyboards (3)
@@ -2906,7 +3363,7 @@ Structured visuals where information order matters: diagrams, technical drawings
 
 <a id="prompt-13"></a>
 
-#### No. 42: Japanese cooking storyboard board
+#### No. 46: Japanese cooking storyboard board
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -2993,7 +3450,7 @@ Location: Traditional Japanese kitchen.
 
 <a id="workflow-characters-cinema-visual-styles"></a>
 
-### Characters, Cinema & Visual Styles (15)
+### Characters, Cinema & Visual Styles (16)
 
 Character, portrait, fashion, cinematic-frame, and style-exploration prompts centered on visual direction and image language.
 
@@ -3003,7 +3460,7 @@ Character, portrait, fashion, cinematic-frame, and style-exploration prompts cen
 
 <a id="prompt-16"></a>
 
-#### No. 43: Premium food and beverage campaign 2
+#### No. 47: Premium food and beverage campaign 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3051,7 +3508,7 @@ Negative Prompt: (text, UI elements, watermark, social media overlay:1.5), (heav
 
 <a id="prompt-25"></a>
 
-#### No. 44: Identity-preserving reference edit 4
+#### No. 48: Identity-preserving reference edit 4
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3092,7 +3549,7 @@ Multiple cute candid poses: softly touching her hair, hand resting on cheek, pla
 
 <a id="prompt-31"></a>
 
-#### No. 45: Luxury studio fashion editorial 7
+#### No. 49: Luxury studio fashion editorial 7
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3128,7 +3585,7 @@ Candid fashion editorial portrait of handsome young man with medium-length dark 
 
 <a id="prompt-32"></a>
 
-#### No. 46: Luxury studio fashion editorial 8
+#### No. 50: Luxury studio fashion editorial 8
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3169,7 +3626,7 @@ Style: editorial luxury fashion portrait, photorealistic, professional studio ph
 
 <a id="prompt-37"></a>
 
-#### No. 47: Luxury studio fashion editorial 10
+#### No. 51: Luxury studio fashion editorial 10
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3206,7 +3663,7 @@ High-fashion editorial portrait, young woman with sleek pulled-back dark hair, l
 
 <a id="prompt-52"></a>
 
-#### No. 48: Crimson-hands surreal porcelain portrait
+#### No. 52: Crimson-hands surreal porcelain portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3242,7 +3699,7 @@ Ultra-realistic surreal conceptual portrait of a flawless matte porcelain-white 
 
 <a id="prompt-55"></a>
 
-#### No. 49: Identity-preserving reference edit 9
+#### No. 53: Identity-preserving reference edit 9
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3278,7 +3735,7 @@ A character, portrait, or stylized illustration prompt with clear art direction 
 
 <a id="prompt-58"></a>
 
-#### No. 50: Period-drama heroine portrait and turnaround sheet
+#### No. 54: Period-drama heroine portrait and turnaround sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3314,7 +3771,7 @@ Create a photoreal Chinese period-drama heroine character sheet for an affluent 
 
 <a id="prompt-60"></a>
 
-#### No. 51: Sunlit Scandinavian knitwear portrait
+#### No. 55: Sunlit Scandinavian knitwear portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3350,7 +3807,7 @@ Dreamy sunlit portrait of a young woman with long soft light-brown hair, delicat
 
 <a id="prompt-62"></a>
 
-#### No. 52: Autumn ferry-crossing period-fantasy heroine
+#### No. 56: Autumn ferry-crossing period-fantasy heroine
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3385,7 +3842,7 @@ Create a high-resolution vertical 9:16 Chinese period-fantasy portrait with the 
 
 <a id="prompt-65"></a>
 
-#### No. 53: Curved-concrete Japanese luxury fashion editorial
+#### No. 57: Curved-concrete Japanese luxury fashion editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3421,7 +3878,7 @@ A stunning young Japanese woman in a high-end fashion studio photoshoot, standin
 
 <a id="prompt-66"></a>
 
-#### No. 54: Retro shoujo portrait with tabby cat
+#### No. 58: Retro shoujo portrait with tabby cat
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3456,7 +3913,7 @@ Create an ultra-detailed retro Japanese anime illustration inspired by authentic
 
 <a id="prompt-67"></a>
 
-#### No. 55: Sunlit beach fashion portrait
+#### No. 59: Sunlit beach fashion portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3493,7 +3950,7 @@ In the background, there are wild green reeds, distant palm trees, and a clear b
 
 <a id="prompt-68"></a>
 
-#### No. 56: Retro red jersey street portrait
+#### No. 60: Retro red jersey street portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3533,6 +3990,41 @@ A GPT Image 2 street-fashion prompt for a confident portrait built around an ove
 
 ---
 
+<a id="prompt-75"></a>
+
+#### No. 61: Cozy plush companion studio portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Maelezo
+
+A GPT Image 2 studio portrait prompt for a cheerful, cleanly styled fashion pose with an oversized plush character companion.
+
+##### Prompt
+
+```
+​A high-quality, studio-style photograph featuring a young woman with a warm smile, sitting cross-legged on the floor. She is wearing a black T-shirt with a stylized graphic character on the front, paired with blue denim shorts, white socks, and white sneakers. Her hair is styled in a messy top bun accented with a black ribbon bow. She is being gently embraced from behind by a giant, plush, off-white rounded character with a minimalist black smiling face. The background is a solid, neutral beige color, creating a clean and cozy aesthetic.
+```
+
+##### Picha Zilizozalishwa
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNHzUngaUAActfM.jpg" width="100%" alt="Cozy plush companion studio portrait - Image 1"></td>
+</tr>
+</table>
+
+##### Maelezo ya kina
+
+- **Mwandishi:** [@mehvishs25](https://x.com/mehvishs25)
+- **Chanzo:** [Chanzo](https://x.com/mehvishs25/status/2076708450856509641)
+- **Ilichapishwa:** 13 Julai 2026
+- **Lugha:** en
+
+**[Tumia prompt hii · GPT Image 2 Library](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
+
+---
+
 <a id="workflow-environments-architecture-worldbuilding"></a>
 
 ### Environments, Architecture & Worldbuilding (4)
@@ -3545,7 +4037,7 @@ Environment, architecture, landscape, concept-art, and worldbuilding prompts whe
 
 <a id="prompt-14"></a>
 
-#### No. 57: Candid smartphone lifestyle portrait
+#### No. 62: Candid smartphone lifestyle portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3586,7 +4078,7 @@ Negative: anime, CGI, blur, bad anatomy, extra fingers, watermark, logo.
 
 <a id="prompt-24"></a>
 
-#### No. 58: Mall fashion smartphone scene
+#### No. 63: Mall fashion smartphone scene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3622,7 +4114,7 @@ Indian woman in a sky-blue pearl saree, matching blouse, elegant handbag, mehndi
 
 <a id="prompt-38"></a>
 
-#### No. 59: Candid smartphone lifestyle portrait 3
+#### No. 64: Candid smartphone lifestyle portrait 3
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3688,12 +4180,12 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 - [GPT Image 2 Prompt Library](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)
 <details>
-<summary>Wabunifu wa jumuiya (31)</summary>
+<summary>Wabunifu wa jumuiya (32)</summary>
 
-[@Aqsahere_](https://x.com/Aqsahere_) · [@auqibhabib](https://x.com/auqibhabib) · [@ChillaiKalan__](https://x.com/ChillaiKalan__) · [@Ciri_ai](https://x.com/Ciri_ai) · [@frametheory058](https://x.com/frametheory058) · [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [@HaniaAi12](https://x.com/HaniaAi12) · [@harboriis](https://x.com/harboriis)<br>
-[@iamrealsnow](https://x.com/iamrealsnow) · [@iamsofiaijaz](https://x.com/iamsofiaijaz) · [@john_my07](https://x.com/john_my07) · [@johnAGI168](https://x.com/johnAGI168) · [@Kashberg_0](https://x.com/Kashberg_0) · [@kingofdairyque](https://x.com/kingofdairyque) · [@liyue_ai](https://x.com/liyue_ai) · [@mehvishs25](https://x.com/mehvishs25)<br>
-[@meng_dagg695](https://x.com/meng_dagg695) · [@MissDelulu9](https://x.com/MissDelulu9) · [@Naiknelofar788](https://x.com/Naiknelofar788) · [@ninaxmee](https://x.com/ninaxmee) · [@ou_zhen599](https://x.com/ou_zhen599) · [@Professor_134](https://x.com/Professor_134) · [@Sairah_0](https://x.com/Sairah_0) · [@saniaspeaks_](https://x.com/saniaspeaks_)<br>
-[@Shorelyn_](https://x.com/Shorelyn_) · [@SimplyAnnisa](https://x.com/SimplyAnnisa) · [@Taaruk_](https://x.com/Taaruk_) · [@TaliaAariz](https://x.com/TaliaAariz) · [@vireonixx](https://x.com/vireonixx) · [@Xaroon_x](https://x.com/Xaroon_x) · [@ZaraIrahh](https://x.com/ZaraIrahh)
+[@aileveraage](https://x.com/aileveraage) · [@Aqsahere_](https://x.com/Aqsahere_) · [@auqibhabib](https://x.com/auqibhabib) · [@ChillaiKalan__](https://x.com/ChillaiKalan__) · [@Ciri_ai](https://x.com/Ciri_ai) · [@frametheory058](https://x.com/frametheory058) · [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [@HaniaAi12](https://x.com/HaniaAi12)<br>
+[@harboriis](https://x.com/harboriis) · [@iamrealsnow](https://x.com/iamrealsnow) · [@iamsofiaijaz](https://x.com/iamsofiaijaz) · [@john_my07](https://x.com/john_my07) · [@johnAGI168](https://x.com/johnAGI168) · [@Kashberg_0](https://x.com/Kashberg_0) · [@kingofdairyque](https://x.com/kingofdairyque) · [@liyue_ai](https://x.com/liyue_ai)<br>
+[@mehvishs25](https://x.com/mehvishs25) · [@meng_dagg695](https://x.com/meng_dagg695) · [@MissDelulu9](https://x.com/MissDelulu9) · [@Naiknelofar788](https://x.com/Naiknelofar788) · [@ninaxmee](https://x.com/ninaxmee) · [@ou_zhen599](https://x.com/ou_zhen599) · [@Professor_134](https://x.com/Professor_134) · [@Sairah_0](https://x.com/Sairah_0)<br>
+[@saniaspeaks_](https://x.com/saniaspeaks_) · [@Shorelyn_](https://x.com/Shorelyn_) · [@SimplyAnnisa](https://x.com/SimplyAnnisa) · [@Taaruk_](https://x.com/Taaruk_) · [@TaliaAariz](https://x.com/TaliaAariz) · [@vireonixx](https://x.com/vireonixx) · [@Xaroon_x](https://x.com/Xaroon_x) · [@ZaraIrahh](https://x.com/ZaraIrahh)
 
 </details>
 
@@ -3713,6 +4205,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Wasilisha Prompt](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Weka Star kwenye repo](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-13T20:54:41.290Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-14T00:42:25.041Z</sub>
 
 </div>
