@@ -101,7 +101,7 @@
 |--------|-------|
 | 提示词总数 | **76** |
 | 精选 | **12** |
-| 最后更新 | **2026年7月15日星期三 UTC 06:11:20** |
+| 最后更新 | **2026年7月15日星期三 UTC 09:59:22** |
 
 </div>
 
@@ -4205,6 +4205,6 @@ A cozy bedroom mirror selfie captured in natural daylight. A stylish young man s
 **[提交提示词](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为仓库点 Star](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>本 README 自动生成。最后更新： 2026-07-15T06:11:20.425Z</sub>
+<sub>本 README 自动生成。最后更新： 2026-07-15T09:59:22.367Z</sub>
 
 </div>
