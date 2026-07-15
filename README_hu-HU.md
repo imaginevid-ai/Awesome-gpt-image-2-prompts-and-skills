@@ -101,7 +101,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Promptok száma | **76** |
 | Kiemelt | **12** |
-| Utolsó frissítés | **2026. július 14., kedd 20:57:33 UTC** |
+| Utolsó frissítés | **2026. július 15., szerda 2:06:05 UTC** |
 
 </div>
 
@@ -4205,6 +4205,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Prompt beküldése](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Adj Star-t a repónak](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-14T20:57:33.839Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-15T02:06:05.093Z</sub>
 
 </div>
