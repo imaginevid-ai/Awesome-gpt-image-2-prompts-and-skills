@@ -99,9 +99,9 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 
 | Metrika | Počet |
 |--------|-------|
-| Celkem promptů | **76** |
+| Celkem promptů | **78** |
 | Doporučené | **12** |
-| Naposledy aktualizováno | **středa 15. července 2026 v 13:29:21 UTC** |
+| Naposledy aktualizováno | **středa 15. července 2026 v 14:24:03 UTC** |
 
 </div>
 
@@ -1127,7 +1127,7 @@ A haunting surreal double-exposure portrait of a young man with wild, windswept 
 
 <a id="workflow-commercial-design-ui-posters"></a>
 
-### Commercial Design, UI & Posters (43)
+### Commercial Design, UI & Posters (44)
 
 Production briefs for advertisements, product campaigns, interfaces, posters, typography, and other designed assets.
 
@@ -3350,9 +3350,46 @@ generic hiking ad, messy scrapbook look, cartoon doodles, fake New Balance silho
 
 ---
 
+<a id="prompt-77"></a>
+
+#### No. 46: Kinetic rooftop boxing poster
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Popis
+
+A typography-led sports poster prompt combining a low wide-angle action photograph, oversized cropped lettering, hard daylight, and a tightly controlled cyan, cream, black, and red palette.
+
+##### Prompt
+
+```
+Create a 4:5 full-bleed editorial action poster for STRIKE SPORT. The brand’s visual identity follows these must-visible traits: a bright outdoor photograph with a clear open sky dominating a large portion of the frame; enormous warm-cream extra-condensed block letters cropped by the canvas and sitting behind the main subject; one oversized action figure cutting diagonally across the layout and breaking through the text layer; a low or close wide-angle camera angle that makes the foreground feel physically imposing; secondary text, large numerals, or stacked words in cream placed along bottom and side edges; compact white editorial microcopy in short tight clusters anchored to strong grid positions; one vivid accent color concentrated on the hero product or outfit while the environment stays sky-blue and neutral; hard midday sunlight with crisp shadows and high-contrast edges; a layered structure alternating between flat graphic type and real photography; minimal ornament — only small marks, rules, or separators; a dense, kinetic layout with the action dominant, type second, and microcopy third. Scene: A professional Runner is throwing a powerful hook with boxing gloves in an outdoor rooftop running  in a modern city,, and a distant skyline under a clear sky. Camera & Composition: Low close wide-angle outdoors, oversized foreground scale, decisive frozen motion, one strong diagonal movement from lower left to upper right, subject cropped by at least one canvas edge. Typography: Place massive warm-cream ultra-condensed block sans lettering reading STRIKE SPORT behind the subject, filling over half the canvas, cropped by the frame and partially hidden by the action. Add compact white microcopy reading ROUND 01 / FIGHT HARD / POWER IN MOTION in tight editorial blocks. Include a small generic glove mark symbol and bottom information clusters in cream. Wardrobe: Modern athletic boxing gear, black base with sharp red accent details, tight performance fit, sweat-textured realism. Brand colors: saturated sky-blue or cyan dominant, warm cream type, crisp white microcopy, deep shadows, one vivid red accent on the gloves and highlights. Lighting & Finish: Hard midday sun, crisp shadows, high-contrast commercial photo realism, slight print-grain texture. No illustration, 3D rendering, real logos, or watermarks. Avoid: real brand logos, watermarks, QR codes, comic or halftone effects, dark studio scenes, muted palettes, or a tiny distant subject. Generate as a 4K ultra-high-resolution raster image
+```
+
+##### Vygenerované obrázky
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNHc3UrbkAAjcnS.jpg" width="100%" alt="Kinetic rooftop boxing poster - Image 1"></td>
+<td width="33%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNHc3UcaAAEYYVH.jpg" width="100%" alt="Kinetic rooftop boxing poster - Image 2"></td>
+<td width="33%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNHc3UdbQAAwKdY.jpg" width="100%" alt="Kinetic rooftop boxing poster - Image 3"></td>
+</tr>
+</table>
+
+##### Detaily
+
+- **Autor:** [Al-Shamus](https://x.com/im_shahid7)
+- **Zdroj:** [Zdroj](https://x.com/im_shahid7/status/2076683762172080615)
+- **Publikováno:** 13. července 2026
+- **Jazyky:** en
+
+**[Použít tento prompt · GPT Image 2 Library](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
+
+---
+
 <a id="workflow-diagrams-technical-storyboards"></a>
 
-### Diagrams, Technical Art & Storyboards (3)
+### Diagrams, Technical Art & Storyboards (4)
 
 Structured visuals where information order matters: diagrams, technical drawings, multi-panel sequences, and storyboards.
 
@@ -3363,7 +3400,7 @@ Structured visuals where information order matters: diagrams, technical drawings
 
 <a id="prompt-13"></a>
 
-#### No. 46: Japanese cooking storyboard board
+#### No. 47: Japanese cooking storyboard board
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3448,6 +3485,49 @@ Location: Traditional Japanese kitchen.
 
 ---
 
+<a id="prompt-78"></a>
+
+#### No. 48: Photoreal product blueprint infographic
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Popis
+
+A reusable reference-image workflow that rephotographs a product, then adds measured blueprint overlays, component labels, material notes, and a compact sketch panel.
+
+##### Prompt
+
+```
+Premium technical infographic of [product name ].
+Use the reference image only to understand the shape and structure of the object, without copying the same photo, angle, composition, or background. Reinterpret the subject in a new professional and realistic photograph, clean and well-lit, with a suitable and more aesthetic background. Keep the object as a real photo, not an
+illustration. Add a technical blueprint-style overlay with white lines, arrows, dimensions, labels, and small diagrams of parts, materials, measurements, and functionality.
+Clear, elegant, and informative composition.
+Include a sketch box in the upper left corner with the title "[name] ".
+```
+
+##### Vygenerované obrázky
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNCWxb9a8AA2XSz.jpg" width="100%" alt="Photoreal product blueprint infographic - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNCWxcAaQAA4NmZ.jpg" width="100%" alt="Photoreal product blueprint infographic - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNCWxcCbsAE7U7-.jpg" width="100%" alt="Photoreal product blueprint infographic - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNCWxb7boAAUCpH.jpg" width="100%" alt="Photoreal product blueprint infographic - Image 4"></td>
+</tr>
+</table>
+
+##### Detaily
+
+- **Autor:** [Al-Shamus](https://x.com/im_shahid7)
+- **Zdroj:** [Zdroj](https://x.com/im_shahid7/status/2076325223490888066)
+- **Publikováno:** 12. července 2026
+- **Jazyky:** en
+
+**[Použít tento prompt · GPT Image 2 Library](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
+
+---
+
 <a id="workflow-characters-cinema-visual-styles"></a>
 
 ### Characters, Cinema & Visual Styles (16)
@@ -3460,7 +3540,7 @@ Character, portrait, fashion, cinematic-frame, and style-exploration prompts cen
 
 <a id="prompt-16"></a>
 
-#### No. 47: Premium food and beverage campaign 2
+#### No. 49: Premium food and beverage campaign 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3508,7 +3588,7 @@ Negative Prompt: (text, UI elements, watermark, social media overlay:1.5), (heav
 
 <a id="prompt-25"></a>
 
-#### No. 48: Identity-preserving reference edit 4
+#### No. 50: Identity-preserving reference edit 4
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3549,7 +3629,7 @@ Multiple cute candid poses: softly touching her hair, hand resting on cheek, pla
 
 <a id="prompt-31"></a>
 
-#### No. 49: Luxury studio fashion editorial 7
+#### No. 51: Luxury studio fashion editorial 7
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3585,7 +3665,7 @@ Candid fashion editorial portrait of handsome young man with medium-length dark 
 
 <a id="prompt-32"></a>
 
-#### No. 50: Luxury studio fashion editorial 8
+#### No. 52: Luxury studio fashion editorial 8
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3626,7 +3706,7 @@ Style: editorial luxury fashion portrait, photorealistic, professional studio ph
 
 <a id="prompt-37"></a>
 
-#### No. 51: Luxury studio fashion editorial 10
+#### No. 53: Luxury studio fashion editorial 10
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3663,7 +3743,7 @@ High-fashion editorial portrait, young woman with sleek pulled-back dark hair, l
 
 <a id="prompt-52"></a>
 
-#### No. 52: Crimson-hands surreal porcelain portrait
+#### No. 54: Crimson-hands surreal porcelain portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3699,7 +3779,7 @@ Ultra-realistic surreal conceptual portrait of a flawless matte porcelain-white 
 
 <a id="prompt-55"></a>
 
-#### No. 53: Identity-preserving reference edit 9
+#### No. 55: Identity-preserving reference edit 9
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3735,7 +3815,7 @@ A character, portrait, or stylized illustration prompt with clear art direction 
 
 <a id="prompt-58"></a>
 
-#### No. 54: Period-drama heroine portrait and turnaround sheet
+#### No. 56: Period-drama heroine portrait and turnaround sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3771,7 +3851,7 @@ Create a photoreal Chinese period-drama heroine character sheet for an affluent 
 
 <a id="prompt-60"></a>
 
-#### No. 55: Sunlit Scandinavian knitwear portrait
+#### No. 57: Sunlit Scandinavian knitwear portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3807,7 +3887,7 @@ Dreamy sunlit portrait of a young woman with long soft light-brown hair, delicat
 
 <a id="prompt-62"></a>
 
-#### No. 56: Autumn ferry-crossing period-fantasy heroine
+#### No. 58: Autumn ferry-crossing period-fantasy heroine
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3842,7 +3922,7 @@ Create a high-resolution vertical 9:16 Chinese period-fantasy portrait with the 
 
 <a id="prompt-65"></a>
 
-#### No. 57: Curved-concrete Japanese luxury fashion editorial
+#### No. 59: Curved-concrete Japanese luxury fashion editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3878,7 +3958,7 @@ A stunning young Japanese woman in a high-end fashion studio photoshoot, standin
 
 <a id="prompt-66"></a>
 
-#### No. 58: Retro shoujo portrait with tabby cat
+#### No. 60: Retro shoujo portrait with tabby cat
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3913,7 +3993,7 @@ Create an ultra-detailed retro Japanese anime illustration inspired by authentic
 
 <a id="prompt-67"></a>
 
-#### No. 59: Sunlit beach fashion portrait
+#### No. 61: Sunlit beach fashion portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3950,7 +4030,7 @@ In the background, there are wild green reeds, distant palm trees, and a clear b
 
 <a id="prompt-68"></a>
 
-#### No. 60: Retro red jersey street portrait
+#### No. 62: Retro red jersey street portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3992,7 +4072,7 @@ A GPT Image 2 street-fashion prompt for a confident portrait built around an ove
 
 <a id="prompt-75"></a>
 
-#### No. 61: Cozy plush companion studio portrait
+#### No. 63: Cozy plush companion studio portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4037,7 +4117,7 @@ Environment, architecture, landscape, concept-art, and worldbuilding prompts whe
 
 <a id="prompt-14"></a>
 
-#### No. 62: Candid smartphone lifestyle portrait
+#### No. 64: Candid smartphone lifestyle portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -4078,7 +4158,7 @@ Negative: anime, CGI, blur, bad anatomy, extra fingers, watermark, logo.
 
 <a id="prompt-24"></a>
 
-#### No. 63: Mall fashion smartphone scene
+#### No. 65: Mall fashion smartphone scene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4114,7 +4194,7 @@ Indian woman in a sky-blue pearl saree, matching blouse, elegant handbag, mehndi
 
 <a id="prompt-38"></a>
 
-#### No. 64: Candid smartphone lifestyle portrait 3
+#### No. 66: Candid smartphone lifestyle portrait 3
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -4180,12 +4260,13 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 - [GPT Image 2 Prompt Library](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)
 <details>
-<summary>Tvůrci z komunity (32)</summary>
+<summary>Tvůrci z komunity (33)</summary>
 
 [@aileveraage](https://x.com/aileveraage) · [@Aqsahere_](https://x.com/Aqsahere_) · [@auqibhabib](https://x.com/auqibhabib) · [@ChillaiKalan__](https://x.com/ChillaiKalan__) · [@Ciri_ai](https://x.com/Ciri_ai) · [@frametheory058](https://x.com/frametheory058) · [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [@HaniaAi12](https://x.com/HaniaAi12)<br>
 [@harboriis](https://x.com/harboriis) · [@iamrealsnow](https://x.com/iamrealsnow) · [@iamsofiaijaz](https://x.com/iamsofiaijaz) · [@john_my07](https://x.com/john_my07) · [@johnAGI168](https://x.com/johnAGI168) · [@Kashberg_0](https://x.com/Kashberg_0) · [@kingofdairyque](https://x.com/kingofdairyque) · [@liyue_ai](https://x.com/liyue_ai)<br>
 [@mehvishs25](https://x.com/mehvishs25) · [@meng_dagg695](https://x.com/meng_dagg695) · [@MissDelulu9](https://x.com/MissDelulu9) · [@Naiknelofar788](https://x.com/Naiknelofar788) · [@ninaxmee](https://x.com/ninaxmee) · [@ou_zhen599](https://x.com/ou_zhen599) · [@Professor_134](https://x.com/Professor_134) · [@Sairah_0](https://x.com/Sairah_0)<br>
-[@saniaspeaks_](https://x.com/saniaspeaks_) · [@Shorelyn_](https://x.com/Shorelyn_) · [@SimplyAnnisa](https://x.com/SimplyAnnisa) · [@Taaruk_](https://x.com/Taaruk_) · [@TaliaAariz](https://x.com/TaliaAariz) · [@vireonixx](https://x.com/vireonixx) · [@Xaroon_x](https://x.com/Xaroon_x) · [@ZaraIrahh](https://x.com/ZaraIrahh)
+[@saniaspeaks_](https://x.com/saniaspeaks_) · [@Shorelyn_](https://x.com/Shorelyn_) · [@SimplyAnnisa](https://x.com/SimplyAnnisa) · [@Taaruk_](https://x.com/Taaruk_) · [@TaliaAariz](https://x.com/TaliaAariz) · [@vireonixx](https://x.com/vireonixx) · [@Xaroon_x](https://x.com/Xaroon_x) · [@ZaraIrahh](https://x.com/ZaraIrahh)<br>
+[Al-Shamus](https://x.com/im_shahid7)
 
 </details>
 
@@ -4205,6 +4286,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Odeslat prompt](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Dát repozitáři Star](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-15T13:29:21.398Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-15T14:24:03.756Z</sub>
 
 </div>
