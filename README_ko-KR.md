@@ -101,7 +101,7 @@ Project links stay inside this repository; model capability sources point to off
 |--------|-------|
 | 총 프롬프트 | **78** |
 | 추천 | **12** |
-| 마지막 업데이트 | **2026년 7월 16일 목요일 오후 1시 43분 3초 UTC** |
+| 마지막 업데이트 | **2026년 7월 16일 목요일 오후 5시 11분 53초 UTC** |
 
 </div>
 
@@ -4286,6 +4286,6 @@ GitHub Issues를 통한 고품질 프롬프트 제출을 환영합니다.
 **[프롬프트 제출](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[저장소에 Star](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>이 README는 자동 생성되었습니다. 마지막 업데이트: 2026-07-16T13:43:03.951Z</sub>
+<sub>이 README는 자동 생성되었습니다. 마지막 업데이트: 2026-07-16T17:11:53.628Z</sub>
 
 </div>
