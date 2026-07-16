@@ -101,7 +101,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Total Prompts | **78** |
 | Featured | **12** |
-| Last Updated | **Thursday, July 16, 2026 at 5:11:53 PM UTC** |
+| Last Updated | **Thursday, July 16, 2026 at 8:54:02 PM UTC** |
 
 </div>
 
@@ -4286,6 +4286,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star this repo](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-16T17:11:53.578Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-16T20:54:02.028Z</sub>
 
 </div>
