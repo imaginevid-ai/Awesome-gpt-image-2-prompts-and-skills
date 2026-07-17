@@ -99,9 +99,9 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 
 | Metryka | Liczba |
 |--------|-------|
-| Łącznie promptów | **78** |
+| Łącznie promptów | **80** |
 | Polecane | **12** |
-| Ostatnia aktualizacja | **piątek, 17 lipca 2026 02:22:53 UTC** |
+| Ostatnia aktualizacja | **piątek, 17 lipca 2026 04:03:03 UTC** |
 
 </div>
 
@@ -1127,7 +1127,7 @@ A haunting surreal double-exposure portrait of a young man with wild, windswept 
 
 <a id="workflow-commercial-design-ui-posters"></a>
 
-### Commercial Design, UI & Posters (44)
+### Commercial Design, UI & Posters (45)
 
 Production briefs for advertisements, product campaigns, interfaces, posters, typography, and other designed assets.
 
@@ -3387,6 +3387,44 @@ Create a 4:5 full-bleed editorial action poster for STRIKE SPORT. The brand’s 
 
 ---
 
+<a id="prompt-79"></a>
+
+#### No. 47: Vintage overland expedition poster
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Opis
+
+A collectible automotive campaign prompt combining a low-angle off-road hero image, expedition hardware, wilderness atmosphere, distressed print texture, and compact technical typography.
+
+##### Prompt
+
+```
+Ultra-detailed vintage overland expedition poster featuring a legendary classic off-road vehicle in a dramatic low-angle hero shot, charging powerfully through rugged dirt terrain while mud, dust, rocks, and debris explode beneath the oversized all-terrain tires. The vehicle is fully equipped for long-distance expedition travel with an expedition roof rack, spare tire, fuel jerry cans, recovery boards, shovel, axe, rooftop cargo, LED light bar, snorkel, heavy-duty steel front bumper, electric winch, D-ring shackles, skid plate, rock sliders, lifted suspension, and aggressive off-road tires. The backdrop showcases a breathtaking wilderness landscape with towering mountains, rolling hills, desert or savannah scenery, scattered acacia trees, dramatic clouds, and an enormous glowing golden-orange sun dominating the horizon, creating a cinematic adventure atmosphere. Designed as a premium retro automotive travel poster with distressed vintage paper texture, subtle print grain, faded ink, muted earthy color palette, and classic expedition magazine aesthetics inspired by 1970s–1990s outdoor adventure advertisements. The composition includes bold oversized condensed typography displaying the vehicle model at the top, the production year and country beneath it, technical specification panels, expedition icons, compass rose, contour topographic map lines, coordinate markings, serial edition numbers, barcode, adventure badges, minimalist infographic elements, and rugged motivational slogans such as "Built for the Wild," "Conquer Any Terrain," "Gentleman's Offroader," or "Indestructible." Hyper-detailed automotive illustration, cinematic lighting, dramatic perspective, crisp mechanical details, realistic mud splashes, ultra-sharp rendering, symmetrical editorial layout, premium adventure branding, collectible wall-art quality, 8K resolution, masterpiece, no people, no watermark.
+```
+
+##### Wygenerowane obrazy
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNFEudIaAAAxEhx.jpg" width="100%" alt="Vintage overland expedition poster - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNFEu-KbgAAt6lU.jpg" width="100%" alt="Vintage overland expedition poster - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNFEvfjbUAA5cv2.jpg" width="100%" alt="Vintage overland expedition poster - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNFEwFEbwAAvfo5.jpg" width="100%" alt="Vintage overland expedition poster - Image 4"></td>
+</tr>
+</table>
+
+##### Szczegóły
+
+- **Autor:** [Anissa](https://x.com/SimplyAnnisa)
+- **Źródło:** [Źródło](https://x.com/SimplyAnnisa/status/2076516504439521529)
+- **Opublikowano:** 13 lipca 2026
+- **Języki:** en
+
+**[Użyj tego promptu · GPT Image 2 Library](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
+
+---
+
 <a id="workflow-diagrams-technical-storyboards"></a>
 
 ### Diagrams, Technical Art & Storyboards (4)
@@ -3400,7 +3438,7 @@ Structured visuals where information order matters: diagrams, technical drawings
 
 <a id="prompt-13"></a>
 
-#### No. 47: Japanese cooking storyboard board
+#### No. 48: Japanese cooking storyboard board
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3487,7 +3525,7 @@ Location: Traditional Japanese kitchen.
 
 <a id="prompt-78"></a>
 
-#### No. 48: Photoreal product blueprint infographic
+#### No. 49: Photoreal product blueprint infographic
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3540,7 +3578,7 @@ Character, portrait, fashion, cinematic-frame, and style-exploration prompts cen
 
 <a id="prompt-16"></a>
 
-#### No. 49: Premium food and beverage campaign 2
+#### No. 50: Premium food and beverage campaign 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3588,7 +3626,7 @@ Negative Prompt: (text, UI elements, watermark, social media overlay:1.5), (heav
 
 <a id="prompt-25"></a>
 
-#### No. 50: Identity-preserving reference edit 4
+#### No. 51: Identity-preserving reference edit 4
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3629,7 +3667,7 @@ Multiple cute candid poses: softly touching her hair, hand resting on cheek, pla
 
 <a id="prompt-31"></a>
 
-#### No. 51: Luxury studio fashion editorial 7
+#### No. 52: Luxury studio fashion editorial 7
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3665,7 +3703,7 @@ Candid fashion editorial portrait of handsome young man with medium-length dark 
 
 <a id="prompt-32"></a>
 
-#### No. 52: Luxury studio fashion editorial 8
+#### No. 53: Luxury studio fashion editorial 8
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3706,7 +3744,7 @@ Style: editorial luxury fashion portrait, photorealistic, professional studio ph
 
 <a id="prompt-37"></a>
 
-#### No. 53: Luxury studio fashion editorial 10
+#### No. 54: Luxury studio fashion editorial 10
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3743,7 +3781,7 @@ High-fashion editorial portrait, young woman with sleek pulled-back dark hair, l
 
 <a id="prompt-52"></a>
 
-#### No. 54: Crimson-hands surreal porcelain portrait
+#### No. 55: Crimson-hands surreal porcelain portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3779,7 +3817,7 @@ Ultra-realistic surreal conceptual portrait of a flawless matte porcelain-white 
 
 <a id="prompt-55"></a>
 
-#### No. 55: Identity-preserving reference edit 9
+#### No. 56: Identity-preserving reference edit 9
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3815,7 +3853,7 @@ A character, portrait, or stylized illustration prompt with clear art direction 
 
 <a id="prompt-58"></a>
 
-#### No. 56: Period-drama heroine portrait and turnaround sheet
+#### No. 57: Period-drama heroine portrait and turnaround sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3851,7 +3889,7 @@ Create a photoreal Chinese period-drama heroine character sheet for an affluent 
 
 <a id="prompt-60"></a>
 
-#### No. 57: Sunlit Scandinavian knitwear portrait
+#### No. 58: Sunlit Scandinavian knitwear portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3887,7 +3925,7 @@ Dreamy sunlit portrait of a young woman with long soft light-brown hair, delicat
 
 <a id="prompt-62"></a>
 
-#### No. 58: Autumn ferry-crossing period-fantasy heroine
+#### No. 59: Autumn ferry-crossing period-fantasy heroine
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3922,7 +3960,7 @@ Create a high-resolution vertical 9:16 Chinese period-fantasy portrait with the 
 
 <a id="prompt-65"></a>
 
-#### No. 59: Curved-concrete Japanese luxury fashion editorial
+#### No. 60: Curved-concrete Japanese luxury fashion editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3958,7 +3996,7 @@ A stunning young Japanese woman in a high-end fashion studio photoshoot, standin
 
 <a id="prompt-66"></a>
 
-#### No. 60: Retro shoujo portrait with tabby cat
+#### No. 61: Retro shoujo portrait with tabby cat
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3993,7 +4031,7 @@ Create an ultra-detailed retro Japanese anime illustration inspired by authentic
 
 <a id="prompt-67"></a>
 
-#### No. 61: Sunlit beach fashion portrait
+#### No. 62: Sunlit beach fashion portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4030,7 +4068,7 @@ In the background, there are wild green reeds, distant palm trees, and a clear b
 
 <a id="prompt-68"></a>
 
-#### No. 62: Retro red jersey street portrait
+#### No. 63: Retro red jersey street portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4072,7 +4110,7 @@ A GPT Image 2 street-fashion prompt for a confident portrait built around an ove
 
 <a id="prompt-75"></a>
 
-#### No. 63: Cozy plush companion studio portrait
+#### No. 64: Cozy plush companion studio portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4107,7 +4145,7 @@ A GPT Image 2 studio portrait prompt for a cheerful, cleanly styled fashion pose
 
 <a id="workflow-environments-architecture-worldbuilding"></a>
 
-### Environments, Architecture & Worldbuilding (4)
+### Environments, Architecture & Worldbuilding (5)
 
 Environment, architecture, landscape, concept-art, and worldbuilding prompts where the place itself carries the idea.
 
@@ -4117,7 +4155,7 @@ Environment, architecture, landscape, concept-art, and worldbuilding prompts whe
 
 <a id="prompt-14"></a>
 
-#### No. 64: Candid smartphone lifestyle portrait
+#### No. 65: Candid smartphone lifestyle portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -4158,7 +4196,7 @@ Negative: anime, CGI, blur, bad anatomy, extra fingers, watermark, logo.
 
 <a id="prompt-24"></a>
 
-#### No. 65: Mall fashion smartphone scene
+#### No. 66: Mall fashion smartphone scene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4194,7 +4232,7 @@ Indian woman in a sky-blue pearl saree, matching blouse, elegant handbag, mehndi
 
 <a id="prompt-38"></a>
 
-#### No. 66: Candid smartphone lifestyle portrait 3
+#### No. 67: Candid smartphone lifestyle portrait 3
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -4232,6 +4270,63 @@ A cozy bedroom mirror selfie captured in natural daylight. A stylish young man s
 
 ---
 
+<a id="prompt-80"></a>
+
+#### No. 68: Ink-to-clay travel journal
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Opis
+
+A destination-aware journal composition where an ink-wash landmark drawing becomes tactile clay beneath a pen, supported by sparse field notes and restrained travel props.
+
+##### Prompt
+
+```
+Warm, photorealistic overhead close-up of an open cream-paper travel journal on a rustic wooden table.
+Destination: [LOCATION].
+
+Central artwork: Large circular composition, centered on the right-hand page — black-and-white sumi-e/ink-wash + fine-liner illustration of [LOCATION]'s most iconic architecture, landscape, and atmosphere (auto-select the defining landmarks/features).
+
+Ink-to-clay transformation: From the flat ink drawing, key landmarks physically emerge as miniature handcrafted clay models — pencil → fine ink → ink wash → tactile matte clay, seamless and magical. Keep the split 60–70% flat ink / 30–40% dimensional clay so it reads as a sketch becoming real, not a pop-up book. Clay pieces: visible handmade texture, small imperfections, real depth.
+
+Color: Mostly monochrome/neutral. One signature [LOCATION]-associated accent color, used sparingly on a few key details only.
+
+Tiny traveler: One small handcrafted figure at the circle's lower edge, mostly from behind, backpack, looking toward the emerging scene — scale/story detail only, never the focal point.
+
+Journal margins (sparse, secondary): Hand-lettered "[LOCATION]" title, a plausible date, brief weather note, one short poetic line, small compass rose, minimal hand-drawn regional map, 3–5 tiny field sketches (food/plants/boats/architecture/culture), and a short "Today's Moments" checklist of destination-specific items. Keep handwriting imperfect and subtle; preserve generous cream negative space — don't overcrowd.
+
+Hand + pen: A human hand enters from the lower right holding a fine-liner, its tip touching the exact spot where ink is becoming clay — reinforcing the "drawing it into existence" illusion.
+
+Tabletop props: Only 2–3 destination-appropriate items (e.g., ceramic ink cup, dried botanical twig, small photograph, fountain pen), softly out of focus and never competing with the notebook.
+
+Look: Warm morning light, gentle cinematic shadows, shallow depth of field, real paper grain, tactile clay texture, fine ink bleed, editorial sketchbook aesthetic. Vertical 4:5.
+
+Excludes: Passport stamps, globe, large typography, scrapbook clutter, fantasy portal, full-color painting, oversized miniature person, unrelated or generic landmarks, plastic-toy appearance. Generate for bath
+```
+
+##### Wygenerowane obrazy
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNXvjmxasAAm3zM.jpg" width="100%" alt="Ink-to-clay travel journal - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNXvkUWa8AA9npJ.jpg" width="100%" alt="Ink-to-clay travel journal - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNXvlMObAAEcQa8.jpg" width="100%" alt="Ink-to-clay travel journal - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNXvl3jbAAA9Atu.jpg" width="100%" alt="Ink-to-clay travel journal - Image 4"></td>
+</tr>
+</table>
+
+##### Szczegóły
+
+- **Autor:** [Saul Goodman](https://x.com/Goodmanprotocol)
+- **Źródło:** [Źródło](https://x.com/Goodmanprotocol/status/2077830247714893926)
+- **Opublikowano:** 16 lipca 2026
+- **Języki:** en
+
+**[Użyj tego promptu · GPT Image 2 Library](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
+
+---
+
 ## Jak pomóc
 
 We welcome high-quality prompt submissions through GitHub Issues.
@@ -4262,11 +4357,11 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 <details>
 <summary>Twórcy społeczności (33)</summary>
 
-[@aileveraage](https://x.com/aileveraage) · [@Aqsahere_](https://x.com/Aqsahere_) · [@auqibhabib](https://x.com/auqibhabib) · [@ChillaiKalan__](https://x.com/ChillaiKalan__) · [@Ciri_ai](https://x.com/Ciri_ai) · [@frametheory058](https://x.com/frametheory058) · [@Goodmanprotocol](https://x.com/Goodmanprotocol) · [@HaniaAi12](https://x.com/HaniaAi12)<br>
-[@harboriis](https://x.com/harboriis) · [@iamrealsnow](https://x.com/iamrealsnow) · [@iamsofiaijaz](https://x.com/iamsofiaijaz) · [@john_my07](https://x.com/john_my07) · [@johnAGI168](https://x.com/johnAGI168) · [@Kashberg_0](https://x.com/Kashberg_0) · [@kingofdairyque](https://x.com/kingofdairyque) · [@liyue_ai](https://x.com/liyue_ai)<br>
-[@mehvishs25](https://x.com/mehvishs25) · [@meng_dagg695](https://x.com/meng_dagg695) · [@MissDelulu9](https://x.com/MissDelulu9) · [@Naiknelofar788](https://x.com/Naiknelofar788) · [@ninaxmee](https://x.com/ninaxmee) · [@ou_zhen599](https://x.com/ou_zhen599) · [@Professor_134](https://x.com/Professor_134) · [@Sairah_0](https://x.com/Sairah_0)<br>
-[@saniaspeaks_](https://x.com/saniaspeaks_) · [@Shorelyn_](https://x.com/Shorelyn_) · [@SimplyAnnisa](https://x.com/SimplyAnnisa) · [@Taaruk_](https://x.com/Taaruk_) · [@TaliaAariz](https://x.com/TaliaAariz) · [@vireonixx](https://x.com/vireonixx) · [@Xaroon_x](https://x.com/Xaroon_x) · [@ZaraIrahh](https://x.com/ZaraIrahh)<br>
-[Al-Shamus](https://x.com/im_shahid7)
+[@aileveraage](https://x.com/aileveraage) · [@Aqsahere_](https://x.com/Aqsahere_) · [@auqibhabib](https://x.com/auqibhabib) · [@ChillaiKalan__](https://x.com/ChillaiKalan__) · [@Ciri_ai](https://x.com/Ciri_ai) · [@frametheory058](https://x.com/frametheory058) · [@HaniaAi12](https://x.com/HaniaAi12) · [@harboriis](https://x.com/harboriis)<br>
+[@iamrealsnow](https://x.com/iamrealsnow) · [@iamsofiaijaz](https://x.com/iamsofiaijaz) · [@john_my07](https://x.com/john_my07) · [@johnAGI168](https://x.com/johnAGI168) · [@Kashberg_0](https://x.com/Kashberg_0) · [@kingofdairyque](https://x.com/kingofdairyque) · [@liyue_ai](https://x.com/liyue_ai) · [@mehvishs25](https://x.com/mehvishs25)<br>
+[@meng_dagg695](https://x.com/meng_dagg695) · [@MissDelulu9](https://x.com/MissDelulu9) · [@Naiknelofar788](https://x.com/Naiknelofar788) · [@ninaxmee](https://x.com/ninaxmee) · [@ou_zhen599](https://x.com/ou_zhen599) · [@Professor_134](https://x.com/Professor_134) · [@Sairah_0](https://x.com/Sairah_0) · [@saniaspeaks_](https://x.com/saniaspeaks_)<br>
+[@Shorelyn_](https://x.com/Shorelyn_) · [@Taaruk_](https://x.com/Taaruk_) · [@TaliaAariz](https://x.com/TaliaAariz) · [@vireonixx](https://x.com/vireonixx) · [@Xaroon_x](https://x.com/Xaroon_x) · [@ZaraIrahh](https://x.com/ZaraIrahh) · [Al-Shamus](https://x.com/im_shahid7) · [Anissa](https://x.com/SimplyAnnisa)<br>
+[Saul Goodman](https://x.com/Goodmanprotocol)
 
 </details>
 
@@ -4286,6 +4381,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Zgłoś prompt](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Daj Star repozytorium](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-17T02:22:53.863Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-17T04:03:03.721Z</sub>
 
 </div>

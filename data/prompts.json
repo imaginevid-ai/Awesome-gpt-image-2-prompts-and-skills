@@ -4903,5 +4903,138 @@
         }
       ]
     }
+  },
+  {
+    "id": 79,
+    "model": "gpt-image-2",
+    "title": "Vintage overland expedition poster",
+    "description": "A collectible automotive campaign prompt combining a low-angle off-road hero image, expedition hardware, wilderness atmosphere, distressed print texture, and compact technical typography.",
+    "content": "Ultra-detailed vintage overland expedition poster featuring a legendary classic off-road vehicle in a dramatic low-angle hero shot, charging powerfully through rugged dirt terrain while mud, dust, rocks, and debris explode beneath the oversized all-terrain tires. The vehicle is fully equipped for long-distance expedition travel with an expedition roof rack, spare tire, fuel jerry cans, recovery boards, shovel, axe, rooftop cargo, LED light bar, snorkel, heavy-duty steel front bumper, electric winch, D-ring shackles, skid plate, rock sliders, lifted suspension, and aggressive off-road tires. The backdrop showcases a breathtaking wilderness landscape with towering mountains, rolling hills, desert or savannah scenery, scattered acacia trees, dramatic clouds, and an enormous glowing golden-orange sun dominating the horizon, creating a cinematic adventure atmosphere. Designed as a premium retro automotive travel poster with distressed vintage paper texture, subtle print grain, faded ink, muted earthy color palette, and classic expedition magazine aesthetics inspired by 1970s–1990s outdoor adventure advertisements. The composition includes bold oversized condensed typography displaying the vehicle model at the top, the production year and country beneath it, technical specification panels, expedition icons, compass rose, contour topographic map lines, coordinate markings, serial edition numbers, barcode, adventure badges, minimalist infographic elements, and rugged motivational slogans such as \"Built for the Wild,\" \"Conquer Any Terrain,\" \"Gentleman's Offroader,\" or \"Indestructible.\" Hyper-detailed automotive illustration, cinematic lighting, dramatic perspective, crisp mechanical details, realistic mud splashes, ultra-sharp rendering, symmetrical editorial layout, premium adventure branding, collectible wall-art quality, 8K resolution, masterpiece, no people, no watermark.",
+    "sourceLink": "https://x.com/SimplyAnnisa/status/2076516504439521529",
+    "sourcePublishedAt": "2026-07-13T03:58:09.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNFEudIaAAAxEhx.jpg",
+      "https://pbs.twimg.com/media/HNFEu-KbgAAt6lU.jpg",
+      "https://pbs.twimg.com/media/HNFEvfjbUAA5cv2.jpg",
+      "https://pbs.twimg.com/media/HNFEwFEbwAAvfo5.jpg"
+    ],
+    "author": {
+      "name": "Anissa",
+      "link": "https://x.com/SimplyAnnisa"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 79,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2076516504439521529",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 17,
+      "replyCount": 61,
+      "likeCount": 123,
+      "quoteCount": 0,
+      "viewCount": 3970,
+      "bookmarkCount": 39,
+      "model_evidence": "gpt-image-2",
+      "collected_at": "2026-07-17"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 15,
+          "title": "Product Campaign",
+          "slug": "product-campaign"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 52,
+          "title": "Vehicle",
+          "slug": "vehicle"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 62,
+          "title": "Commercial Design, UI & Posters",
+          "slug": "commercial-design-ui-posters"
+        }
+      ]
+    }
+  },
+  {
+    "id": 80,
+    "model": "gpt-image-2",
+    "title": "Ink-to-clay travel journal",
+    "description": "A destination-aware journal composition where an ink-wash landmark drawing becomes tactile clay beneath a pen, supported by sparse field notes and restrained travel props.",
+    "content": "Warm, photorealistic overhead close-up of an open cream-paper travel journal on a rustic wooden table.\nDestination: [LOCATION].\n\nCentral artwork: Large circular composition, centered on the right-hand page — black-and-white sumi-e/ink-wash + fine-liner illustration of [LOCATION]'s most iconic architecture, landscape, and atmosphere (auto-select the defining landmarks/features).\n\nInk-to-clay transformation: From the flat ink drawing, key landmarks physically emerge as miniature handcrafted clay models — pencil → fine ink → ink wash → tactile matte clay, seamless and magical. Keep the split 60–70% flat ink / 30–40% dimensional clay so it reads as a sketch becoming real, not a pop-up book. Clay pieces: visible handmade texture, small imperfections, real depth.\n\nColor: Mostly monochrome/neutral. One signature [LOCATION]-associated accent color, used sparingly on a few key details only.\n\nTiny traveler: One small handcrafted figure at the circle's lower edge, mostly from behind, backpack, looking toward the emerging scene — scale/story detail only, never the focal point.\n\nJournal margins (sparse, secondary): Hand-lettered \"[LOCATION]\" title, a plausible date, brief weather note, one short poetic line, small compass rose, minimal hand-drawn regional map, 3–5 tiny field sketches (food/plants/boats/architecture/culture), and a short \"Today's Moments\" checklist of destination-specific items. Keep handwriting imperfect and subtle; preserve generous cream negative space — don't overcrowd.\n\nHand + pen: A human hand enters from the lower right holding a fine-liner, its tip touching the exact spot where ink is becoming clay — reinforcing the \"drawing it into existence\" illusion.\n\nTabletop props: Only 2–3 destination-appropriate items (e.g., ceramic ink cup, dried botanical twig, small photograph, fountain pen), softly out of focus and never competing with the notebook.\n\nLook: Warm morning light, gentle cinematic shadows, shallow depth of field, real paper grain, tactile clay texture, fine ink bleed, editorial sketchbook aesthetic. Vertical 4:5.\n\nExcludes: Passport stamps, globe, large typography, scrapbook clutter, fantasy portal, full-color painting, oversized miniature person, unrelated or generic landmarks, plastic-toy appearance. Generate for bath",
+    "sourceLink": "https://x.com/Goodmanprotocol/status/2077830247714893926",
+    "sourcePublishedAt": "2026-07-16T18:58:29.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNXvjmxasAAm3zM.jpg",
+      "https://pbs.twimg.com/media/HNXvkUWa8AA9npJ.jpg",
+      "https://pbs.twimg.com/media/HNXvlMObAAEcQa8.jpg",
+      "https://pbs.twimg.com/media/HNXvl3jbAAA9Atu.jpg"
+    ],
+    "author": {
+      "name": "Saul Goodman",
+      "link": "https://x.com/Goodmanprotocol"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 80,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2077830247714893926",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "retweetCount": 3,
+      "replyCount": 8,
+      "likeCount": 28,
+      "quoteCount": 0,
+      "viewCount": 821,
+      "bookmarkCount": 16,
+      "model_evidence": "gpt-image-2",
+      "collected_at": "2026-07-17",
+      "curation_note": "The complete creator prompt is preserved; one dangling non-instruction fragment at the end was removed."
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 14,
+          "title": "Travel Visual",
+          "slug": "travel-visual"
+        }
+      ],
+      "styles": [
+        {
+          "id": 48,
+          "title": "Magical Realism",
+          "slug": "magical-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 34,
+          "title": "Landscape",
+          "slug": "landscape"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 65,
+          "title": "Environments, Architecture & Worldbuilding",
+          "slug": "environments-architecture-worldbuilding"
+        }
+      ]
+    }
   }
 ]
