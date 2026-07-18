@@ -101,7 +101,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Всего промптов | **80** |
 | Избранное | **12** |
-| Обновлено | **суббота, 18 июля 2026 г. в 02:07:01 UTC** |
+| Обновлено | **суббота, 18 июля 2026 г. в 06:02:22 UTC** |
 
 </div>
 
@@ -4381,6 +4381,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Отправить промпт](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Поставить Star](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>Этот README создан автоматически. Последнее обновление: 2026-07-18T02:07:01.330Z</sub>
+<sub>Этот README создан автоматически. Последнее обновление: 2026-07-18T06:02:22.532Z</sub>
 
 </div>
