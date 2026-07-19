@@ -101,7 +101,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Totalt antall prompter | **80** |
 | Utvalgt | **12** |
-| Sist oppdatert | **søndag 19. juli 2026 kl. 02:24:15 UTC** |
+| Sist oppdatert | **søndag 19. juli 2026 kl. 06:27:50 UTC** |
 
 </div>
 
@@ -4381,6 +4381,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Send inn prompt](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Gi repoet en Star](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-19T02:24:15.068Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-19T06:27:50.679Z</sub>
 
 </div>
