@@ -101,7 +101,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Celkem promptů | **80** |
 | Doporučené | **12** |
-| Naposledy aktualizováno | **pondělí 20. července 2026 v 6:42:43 UTC** |
+| Naposledy aktualizováno | **pondělí 20. července 2026 v 10:48:38 UTC** |
 
 </div>
 
@@ -4381,6 +4381,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Odeslat prompt](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Dát repozitáři Star](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-20T06:42:43.844Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-20T10:48:38.409Z</sub>
 
 </div>

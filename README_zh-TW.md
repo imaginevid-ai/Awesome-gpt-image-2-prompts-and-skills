@@ -101,7 +101,7 @@
 |--------|-------|
 | 提示詞總數 | **80** |
 | 精选 | **12** |
-| 最後更新 | **2026年7月20日 星期一 清晨6:42:43 [UTC]** |
+| 最後更新 | **2026年7月20日 星期一 上午10:48:38 [UTC]** |
 
 </div>
 
@@ -4381,6 +4381,6 @@ Excludes: Passport stamps, globe, large typography, scrapbook clutter, fantasy p
 **[提交提示词](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为仓库点 Star](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>本 README 自動生成。最後更新： 2026-07-20T06:42:43.399Z</sub>
+<sub>本 README 自動生成。最後更新： 2026-07-20T10:48:38.207Z</sub>
 
 </div>
