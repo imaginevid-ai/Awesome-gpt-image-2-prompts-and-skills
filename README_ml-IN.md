@@ -99,9 +99,9 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 
 | മെട്രിക് | എണ്ണം |
 |--------|-------|
-| ആകെ prompts | **80** |
+| ആകെ prompts | **82** |
 | Featured | **12** |
-| അവസാന അപ്ഡേറ്റ് | **2026 ജൂലൈ 21, ചൊവ്വാഴ്ച, UTC 1:40:43 PM-ന്** |
+| അവസാന അപ്ഡേറ്റ് | **2026 ജൂലൈ 21, ചൊവ്വാഴ്ച, UTC 1:46:47 PM-ന്** |
 
 </div>
 
@@ -3427,7 +3427,7 @@ Ultra-detailed vintage overland expedition poster featuring a legendary classic 
 
 <a id="workflow-diagrams-technical-storyboards"></a>
 
-### Diagrams, Technical Art & Storyboards (4)
+### Diagrams, Technical Art & Storyboards (6)
 
 Structured visuals where information order matters: diagrams, technical drawings, multi-panel sequences, and storyboards.
 
@@ -3566,6 +3566,75 @@ Include a sketch box in the upper left corner with the title "[name] ".
 
 ---
 
+<a id="prompt-81"></a>
+
+#### No. 50: Production-ready master character reference sheet
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### വിവരണം
+
+A neutral technical board that separates identity, scale, expression, wardrobe, props, gestures, and palette for downstream character-consistent video work.
+
+##### Prompt
+
+```
+Create a single unified MASTER CHARACTER REFERENCE SHEET from these inputs: [STYLE]: [anime / stylized 3D / realistic 3D / live-action / cinematic realism / noir / stop-motion / other style]. [SUBJECT_DESCRIPTION]: [character or person description]. Create the board in a 4:3 horizontal layout. Keep the board layout, background, typography, and spacing clean, neutral, minimal, and technical on a pure white or clean off-white background. Use clear section titles, readable English labels, balanced spacing, no clutter, no watermark, and no logo. Apply [STYLE] only to the character and visual elements, not to the board layout or UI. Infer missing identity details from the subject description. Include a top information block, a 6-to-8-swatch color palette, a large main identity and scale sheet, expression progression, head-angle details, neutral baseline, posture variations, wardrobe and accessory details, a key prop, hand gestures, and a close-up pose. Keep all text readable at normal viewing size.
+```
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2048653698419884032/vid/avc1/720x960/oY6eQIeYahi36yTs.mp4?tag=21"><img src="https://pbs.twimg.com/amplify_video_thumb/2048653698419884032/img/HO7l2E-S7JWq3sNH.jpg" height="420" alt="Production-ready master character reference sheet - Motion preview"></a>
+</div>
+
+##### വിവരങ്ങൾ
+
+- **രചയിതാവ്:** [@aimikoda](https://x.com/aimikoda)
+- **ഉറവിടം:** [ഉറവിടം](https://x.com/aimikoda/status/2048654096794538316)
+- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ഏപ്രിൽ 27
+- **ഭാഷകൾ:** en
+
+**[ഈ prompt ഉപയോഗിക്കുക · GPT Image 2 Library](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
+
+---
+
+<a id="prompt-82"></a>
+
+#### No. 51: Minimal palm-line analysis guide
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### വിവരണം
+
+A reference-image information design that converts visible palm lines into a clean contour illustration and an expensive-looking card-based guide.
+
+##### Prompt
+
+```
+Based on the attached open-palm image, make a complete palm-line analysis guide. Analyze the visible palm structure. Keep the guide clean and minimal with thin lines, rounded cards, and a refined premium editorial finish. Focus on the palm analysis and create a simple black-on-white contour artwork of the main lines. Use clear labels, balanced spacing, and a restrained information hierarchy.
+```
+
+##### Generated images
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HG14nhsbkAAs0Py.jpg" width="100%" alt="Minimal palm-line analysis guide - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HG14nhHWcAAAoJM.jpg" width="100%" alt="Minimal palm-line analysis guide - Image 2"></td>
+</tr>
+</table>
+
+##### വിവരങ്ങൾ
+
+- **രചയിതാവ്:** [@LinusEkenstam](https://x.com/LinusEkenstam)
+- **ഉറവിടം:** [ഉറവിടം](https://x.com/LinusEkenstam/status/2048426035541135437)
+- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ഏപ്രിൽ 26
+- **ഭാഷകൾ:** en
+
+**[ഈ prompt ഉപയോഗിക്കുക · GPT Image 2 Library](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
+
+---
+
 <a id="workflow-characters-cinema-visual-styles"></a>
 
 ### Characters, Cinema & Visual Styles (16)
@@ -3578,7 +3647,7 @@ Character, portrait, fashion, cinematic-frame, and style-exploration prompts cen
 
 <a id="prompt-16"></a>
 
-#### No. 50: Premium food and beverage campaign 2
+#### No. 52: Premium food and beverage campaign 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3626,7 +3695,7 @@ Negative Prompt: (text, UI elements, watermark, social media overlay:1.5), (heav
 
 <a id="prompt-25"></a>
 
-#### No. 51: Identity-preserving reference edit 4
+#### No. 53: Identity-preserving reference edit 4
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3667,7 +3736,7 @@ Multiple cute candid poses: softly touching her hair, hand resting on cheek, pla
 
 <a id="prompt-31"></a>
 
-#### No. 52: Luxury studio fashion editorial 7
+#### No. 54: Luxury studio fashion editorial 7
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3703,7 +3772,7 @@ Candid fashion editorial portrait of handsome young man with medium-length dark 
 
 <a id="prompt-32"></a>
 
-#### No. 53: Luxury studio fashion editorial 8
+#### No. 55: Luxury studio fashion editorial 8
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3744,7 +3813,7 @@ Style: editorial luxury fashion portrait, photorealistic, professional studio ph
 
 <a id="prompt-37"></a>
 
-#### No. 54: Luxury studio fashion editorial 10
+#### No. 56: Luxury studio fashion editorial 10
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3781,7 +3850,7 @@ High-fashion editorial portrait, young woman with sleek pulled-back dark hair, l
 
 <a id="prompt-52"></a>
 
-#### No. 55: Crimson-hands surreal porcelain portrait
+#### No. 57: Crimson-hands surreal porcelain portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3817,7 +3886,7 @@ Ultra-realistic surreal conceptual portrait of a flawless matte porcelain-white 
 
 <a id="prompt-55"></a>
 
-#### No. 56: Identity-preserving reference edit 9
+#### No. 58: Identity-preserving reference edit 9
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3853,7 +3922,7 @@ A character, portrait, or stylized illustration prompt with clear art direction 
 
 <a id="prompt-58"></a>
 
-#### No. 57: Period-drama heroine portrait and turnaround sheet
+#### No. 59: Period-drama heroine portrait and turnaround sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3889,7 +3958,7 @@ Create a photoreal Chinese period-drama heroine character sheet for an affluent 
 
 <a id="prompt-60"></a>
 
-#### No. 58: Sunlit Scandinavian knitwear portrait
+#### No. 60: Sunlit Scandinavian knitwear portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3925,7 +3994,7 @@ Dreamy sunlit portrait of a young woman with long soft light-brown hair, delicat
 
 <a id="prompt-62"></a>
 
-#### No. 59: Autumn ferry-crossing period-fantasy heroine
+#### No. 61: Autumn ferry-crossing period-fantasy heroine
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3960,7 +4029,7 @@ Create a high-resolution vertical 9:16 Chinese period-fantasy portrait with the 
 
 <a id="prompt-65"></a>
 
-#### No. 60: Curved-concrete Japanese luxury fashion editorial
+#### No. 62: Curved-concrete Japanese luxury fashion editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3996,7 +4065,7 @@ A stunning young Japanese woman in a high-end fashion studio photoshoot, standin
 
 <a id="prompt-66"></a>
 
-#### No. 61: Retro shoujo portrait with tabby cat
+#### No. 63: Retro shoujo portrait with tabby cat
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4031,7 +4100,7 @@ Create an ultra-detailed retro Japanese anime illustration inspired by authentic
 
 <a id="prompt-67"></a>
 
-#### No. 62: Sunlit beach fashion portrait
+#### No. 64: Sunlit beach fashion portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4068,7 +4137,7 @@ In the background, there are wild green reeds, distant palm trees, and a clear b
 
 <a id="prompt-68"></a>
 
-#### No. 63: Retro red jersey street portrait
+#### No. 65: Retro red jersey street portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4110,7 +4179,7 @@ A GPT Image 2 street-fashion prompt for a confident portrait built around an ove
 
 <a id="prompt-75"></a>
 
-#### No. 64: Cozy plush companion studio portrait
+#### No. 66: Cozy plush companion studio portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4155,7 +4224,7 @@ Environment, architecture, landscape, concept-art, and worldbuilding prompts whe
 
 <a id="prompt-14"></a>
 
-#### No. 65: Candid smartphone lifestyle portrait
+#### No. 67: Candid smartphone lifestyle portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -4196,7 +4265,7 @@ Negative: anime, CGI, blur, bad anatomy, extra fingers, watermark, logo.
 
 <a id="prompt-24"></a>
 
-#### No. 66: Mall fashion smartphone scene
+#### No. 68: Mall fashion smartphone scene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4232,7 +4301,7 @@ Indian woman in a sky-blue pearl saree, matching blouse, elegant handbag, mehndi
 
 <a id="prompt-38"></a>
 
-#### No. 67: Candid smartphone lifestyle portrait 3
+#### No. 69: Candid smartphone lifestyle portrait 3
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -4272,7 +4341,7 @@ A cozy bedroom mirror selfie captured in natural daylight. A stylish young man s
 
 <a id="prompt-80"></a>
 
-#### No. 68: Ink-to-clay travel journal
+#### No. 70: Ink-to-clay travel journal
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4355,13 +4424,13 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 - [GPT Image 2 Prompt Library](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)
 <details>
-<summary>കമ്മ്യൂണിറ്റി സ്രഷ്ടാക്കൾക്ക് നന്ദി (33)</summary>
+<summary>കമ്മ്യൂണിറ്റി സ്രഷ്ടാക്കൾക്ക് നന്ദി (35)</summary>
 
-[@aileveraage](https://x.com/aileveraage) · [@Aqsahere_](https://x.com/Aqsahere_) · [@auqibhabib](https://x.com/auqibhabib) · [@ChillaiKalan__](https://x.com/ChillaiKalan__) · [@Ciri_ai](https://x.com/Ciri_ai) · [@frametheory058](https://x.com/frametheory058) · [@HaniaAi12](https://x.com/HaniaAi12) · [@harboriis](https://x.com/harboriis)<br>
-[@iamrealsnow](https://x.com/iamrealsnow) · [@iamsofiaijaz](https://x.com/iamsofiaijaz) · [@john_my07](https://x.com/john_my07) · [@johnAGI168](https://x.com/johnAGI168) · [@Kashberg_0](https://x.com/Kashberg_0) · [@kingofdairyque](https://x.com/kingofdairyque) · [@liyue_ai](https://x.com/liyue_ai) · [@mehvishs25](https://x.com/mehvishs25)<br>
-[@meng_dagg695](https://x.com/meng_dagg695) · [@MissDelulu9](https://x.com/MissDelulu9) · [@Naiknelofar788](https://x.com/Naiknelofar788) · [@ninaxmee](https://x.com/ninaxmee) · [@ou_zhen599](https://x.com/ou_zhen599) · [@Professor_134](https://x.com/Professor_134) · [@Sairah_0](https://x.com/Sairah_0) · [@saniaspeaks_](https://x.com/saniaspeaks_)<br>
-[@Shorelyn_](https://x.com/Shorelyn_) · [@Taaruk_](https://x.com/Taaruk_) · [@TaliaAariz](https://x.com/TaliaAariz) · [@vireonixx](https://x.com/vireonixx) · [@Xaroon_x](https://x.com/Xaroon_x) · [@ZaraIrahh](https://x.com/ZaraIrahh) · [Al-Shamus](https://x.com/im_shahid7) · [Anissa](https://x.com/SimplyAnnisa)<br>
-[Saul Goodman](https://x.com/Goodmanprotocol)
+[@aileveraage](https://x.com/aileveraage) · [@aimikoda](https://x.com/aimikoda) · [@Aqsahere_](https://x.com/Aqsahere_) · [@auqibhabib](https://x.com/auqibhabib) · [@ChillaiKalan__](https://x.com/ChillaiKalan__) · [@Ciri_ai](https://x.com/Ciri_ai) · [@frametheory058](https://x.com/frametheory058) · [@HaniaAi12](https://x.com/HaniaAi12)<br>
+[@harboriis](https://x.com/harboriis) · [@iamrealsnow](https://x.com/iamrealsnow) · [@iamsofiaijaz](https://x.com/iamsofiaijaz) · [@john_my07](https://x.com/john_my07) · [@johnAGI168](https://x.com/johnAGI168) · [@Kashberg_0](https://x.com/Kashberg_0) · [@kingofdairyque](https://x.com/kingofdairyque) · [@LinusEkenstam](https://x.com/LinusEkenstam)<br>
+[@liyue_ai](https://x.com/liyue_ai) · [@mehvishs25](https://x.com/mehvishs25) · [@meng_dagg695](https://x.com/meng_dagg695) · [@MissDelulu9](https://x.com/MissDelulu9) · [@Naiknelofar788](https://x.com/Naiknelofar788) · [@ninaxmee](https://x.com/ninaxmee) · [@ou_zhen599](https://x.com/ou_zhen599) · [@Professor_134](https://x.com/Professor_134)<br>
+[@Sairah_0](https://x.com/Sairah_0) · [@saniaspeaks_](https://x.com/saniaspeaks_) · [@Shorelyn_](https://x.com/Shorelyn_) · [@Taaruk_](https://x.com/Taaruk_) · [@TaliaAariz](https://x.com/TaliaAariz) · [@vireonixx](https://x.com/vireonixx) · [@Xaroon_x](https://x.com/Xaroon_x) · [@ZaraIrahh](https://x.com/ZaraIrahh)<br>
+[Al-Shamus](https://x.com/im_shahid7) · [Anissa](https://x.com/SimplyAnnisa) · [Saul Goodman](https://x.com/Goodmanprotocol)
 
 </details>
 
@@ -4381,6 +4450,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Prompt submit ചെയ്യുക](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ഈ repo-യ്ക്ക് Star നൽകുക](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-21T13:40:43.030Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-21T13:46:47.605Z</sub>
 
 </div>

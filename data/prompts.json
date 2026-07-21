@@ -5036,5 +5036,140 @@
         }
       ]
     }
+  },
+  {
+    "id": 81,
+    "model": "gpt-image-2",
+    "title": "Production-ready master character reference sheet",
+    "description": "A neutral technical board that separates identity, scale, expression, wardrobe, props, gestures, and palette for downstream character-consistent video work.",
+    "content": "Create a single unified MASTER CHARACTER REFERENCE SHEET from these inputs: [STYLE]: [anime / stylized 3D / realistic 3D / live-action / cinematic realism / noir / stop-motion / other style]. [SUBJECT_DESCRIPTION]: [character or person description]. Create the board in a 4:3 horizontal layout. Keep the board layout, background, typography, and spacing clean, neutral, minimal, and technical on a pure white or clean off-white background. Use clear section titles, readable English labels, balanced spacing, no clutter, no watermark, and no logo. Apply [STYLE] only to the character and visual elements, not to the board layout or UI. Infer missing identity details from the subject description. Include a top information block, a 6-to-8-swatch color palette, a large main identity and scale sheet, expression progression, head-angle details, neutral baseline, posture variations, wardrobe and accessory details, a key prop, hand gestures, and a close-up pose. Keep all text readable at normal viewing size.",
+    "sourceLink": "https://x.com/aimikoda/status/2048654096794538316",
+    "sourcePublishedAt": "2026-04-27T06:42:53.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2048653698419884032/img/HO7l2E-S7JWq3sNH.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2048653698419884032/vid/avc1/720x960/oY6eQIeYahi36yTs.mp4?tag=21",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2048653698419884032/img/HO7l2E-S7JWq3sNH.jpg"
+    },
+    "author": {
+      "name": "@aimikoda",
+      "link": "https://x.com/aimikoda"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 81,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2048654096794538316",
+      "prompt_source": "thread_reply_prompt_editorially_trimmed",
+      "prompt_tweet_id": "2048654612257816798",
+      "retweetCount": 273,
+      "replyCount": 70,
+      "likeCount": 2167,
+      "quoteCount": 15,
+      "viewCount": 159917,
+      "bookmarkCount": 3063,
+      "model_evidence": "gpt-image-2",
+      "collected_at": "2026-07-19",
+      "curation_note": "Passed explicit-model, reusable-prompt, canonical-source, inspectable-media, duplicate, and editorial-value review."
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 42,
+          "title": "Technical Blueprint",
+          "slug": "technical-blueprint"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 63,
+          "title": "Diagrams, Technical Art & Storyboards",
+          "slug": "diagrams-technical-storyboards"
+        }
+      ]
+    }
+  },
+  {
+    "id": 82,
+    "model": "gpt-image-2",
+    "title": "Minimal palm-line analysis guide",
+    "description": "A reference-image information design that converts visible palm lines into a clean contour illustration and an expensive-looking card-based guide.",
+    "content": "Based on the attached open-palm image, make a complete palm-line analysis guide. Analyze the visible palm structure. Keep the guide clean and minimal with thin lines, rounded cards, and a refined premium editorial finish. Focus on the palm analysis and create a simple black-on-white contour artwork of the main lines. Use clear labels, balanced spacing, and a restrained information hierarchy.",
+    "sourceLink": "https://x.com/LinusEkenstam/status/2048426035541135437",
+    "sourcePublishedAt": "2026-04-26T15:36:39.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HG14nhsbkAAs0Py.jpg",
+      "https://pbs.twimg.com/media/HG14nhHWcAAAoJM.jpg"
+    ],
+    "author": {
+      "name": "@LinusEkenstam",
+      "link": "https://x.com/LinusEkenstam"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 82,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2048426035541135437",
+      "prompt_source": "thread_reply_prompt_normalized",
+      "prompt_tweet_id": "2048426040762978346",
+      "retweetCount": 566,
+      "replyCount": 826,
+      "likeCount": 5972,
+      "quoteCount": 1121,
+      "viewCount": 7841526,
+      "bookmarkCount": 9377,
+      "model_evidence": "gpt-image-2",
+      "collected_at": "2026-07-19",
+      "curation_note": "Passed explicit-model, reusable-prompt, canonical-source, inspectable-media, duplicate, and editorial-value review."
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 17,
+          "title": "Infographic & Typography",
+          "slug": "infographic-typography"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 59,
+          "title": "Marketing Layout",
+          "slug": "marketing-layout"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 63,
+          "title": "Diagrams, Technical Art & Storyboards",
+          "slug": "diagrams-technical-storyboards"
+        }
+      ]
+    }
   }
 ]
