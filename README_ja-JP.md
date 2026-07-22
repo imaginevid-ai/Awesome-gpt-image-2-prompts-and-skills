@@ -101,7 +101,7 @@ Project links stay inside this repository; model capability sources point to off
 |--------|-------|
 | プロンプト総数 | **82** |
 | 注目 | **12** |
-| 最終更新 | **2026年7月22日水曜日 10:22:20 UTC** |
+| 最終更新 | **2026年7月22日水曜日 13:43:52 UTC** |
 
 </div>
 
@@ -4450,6 +4450,6 @@ Excludes: Passport stamps, globe, large typography, scrapbook clutter, fantasy p
 **[プロンプトを投稿](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[このリポジトリに Star](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>この README は自動生成されています。最終更新： 2026-07-22T10:22:20.476Z</sub>
+<sub>この README は自動生成されています。最終更新： 2026-07-22T13:43:52.736Z</sub>
 
 </div>
