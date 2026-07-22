@@ -99,9 +99,9 @@ Project links stay inside this repository; model capability sources point to off
 
 | 項目 | 数 |
 |--------|-------|
-| プロンプト総数 | **82** |
+| プロンプト総数 | **83** |
 | 注目 | **12** |
-| 最終更新 | **2026年7月22日水曜日 13:43:52 UTC** |
+| 最終更新 | **2026年7月22日水曜日 14:40:25 UTC** |
 
 </div>
 
@@ -3427,7 +3427,7 @@ Ultra-detailed vintage overland expedition poster featuring a legendary classic 
 
 <a id="workflow-diagrams-technical-storyboards"></a>
 
-### 図解・技術ビジュアル・絵コンテ (6)
+### 図解・技術ビジュアル・絵コンテ (7)
 
 Structured visuals where information order matters: diagrams, technical drawings, multi-panel sequences, and storyboards.
 
@@ -3635,6 +3635,42 @@ Based on the attached open-palm image, make a complete palm-line analysis guide.
 
 ---
 
+<a id="prompt-83"></a>
+
+#### No. 52: Papercraft destination emerging from a travel tablet
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 説明
+
+A vintage tourism poster that combines a central tablet diorama, regional landmarks, mixed-media ephemera, and editable destination typography.
+
+##### プロンプト
+
+```
+Create a premium vintage travel poster for [COUNTRY, CITY]. Place a large tablet at the center displaying a handcrafted 3D papercraft diorama of the destination. Let the scene emerge seamlessly from the screen into the physical poster, with layered paper-cut elements flowing outward. Include recognizable landmarks, streets, coast or mountains, flowers, local architecture, regional patterns, native plants, boats, wildlife, and signature foods in one balanced composition. Show a realistic hand holding a stylus and actively drawing the scene so the destination appears to come alive. Surround the tablet with passport stamps, postage stamps, travel sketches, handwritten arrows, maps, botanical drawings, illustrated local symbols, and torn-paper textures. At the top, set the exact destination name in large elegant serif type, followed by [TRAVEL TAGLINE] and a smaller subtitle. Warm aged parchment, visible paper fibers, soft contact shadows, layered papercraft depth, cinematic editorial lighting, luxury tourism-campaign finish, vertical poster, no garbled text or duplicated landmarks.
+```
+
+##### 生成画像
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HN1ib28XQAAOZLe.jpg" width="100%" alt="Papercraft destination emerging from a travel tablet - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HN1ib3AWEAAKKnU.jpg" width="100%" alt="Papercraft destination emerging from a travel tablet - Image 2"></td>
+</tr>
+</table>
+
+##### 詳細
+
+- **作者:** [@codewithhajra](https://x.com/codewithhajra)
+- **出典:** [出典](https://x.com/codewithhajra/status/2079926840332878187)
+- **公開日:** 2026年7月22日
+- **言語:** en
+
+**[このプロンプトを使う · GPT Image 2 Library](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
+
+---
+
 <a id="workflow-characters-cinema-visual-styles"></a>
 
 ### キャラクター・映画表現・ビジュアルスタイル (16)
@@ -3647,7 +3683,7 @@ Character, portrait, fashion, cinematic-frame, and style-exploration prompts cen
 
 <a id="prompt-16"></a>
 
-#### No. 52: Premium food and beverage campaign 2
+#### No. 53: Premium food and beverage campaign 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3695,7 +3731,7 @@ Negative Prompt: (text, UI elements, watermark, social media overlay:1.5), (heav
 
 <a id="prompt-25"></a>
 
-#### No. 53: Identity-preserving reference edit 4
+#### No. 54: Identity-preserving reference edit 4
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3736,7 +3772,7 @@ Multiple cute candid poses: softly touching her hair, hand resting on cheek, pla
 
 <a id="prompt-31"></a>
 
-#### No. 54: Luxury studio fashion editorial 7
+#### No. 55: Luxury studio fashion editorial 7
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3772,7 +3808,7 @@ Candid fashion editorial portrait of handsome young man with medium-length dark 
 
 <a id="prompt-32"></a>
 
-#### No. 55: Luxury studio fashion editorial 8
+#### No. 56: Luxury studio fashion editorial 8
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3813,7 +3849,7 @@ Style: editorial luxury fashion portrait, photorealistic, professional studio ph
 
 <a id="prompt-37"></a>
 
-#### No. 56: Luxury studio fashion editorial 10
+#### No. 57: Luxury studio fashion editorial 10
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3850,7 +3886,7 @@ High-fashion editorial portrait, young woman with sleek pulled-back dark hair, l
 
 <a id="prompt-52"></a>
 
-#### No. 57: Crimson-hands surreal porcelain portrait
+#### No. 58: Crimson-hands surreal porcelain portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3886,7 +3922,7 @@ Ultra-realistic surreal conceptual portrait of a flawless matte porcelain-white 
 
 <a id="prompt-55"></a>
 
-#### No. 58: Identity-preserving reference edit 9
+#### No. 59: Identity-preserving reference edit 9
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3922,7 +3958,7 @@ A character, portrait, or stylized illustration prompt with clear art direction 
 
 <a id="prompt-58"></a>
 
-#### No. 59: Period-drama heroine portrait and turnaround sheet
+#### No. 60: Period-drama heroine portrait and turnaround sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3958,7 +3994,7 @@ Create a photoreal Chinese period-drama heroine character sheet for an affluent 
 
 <a id="prompt-60"></a>
 
-#### No. 60: Sunlit Scandinavian knitwear portrait
+#### No. 61: Sunlit Scandinavian knitwear portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3994,7 +4030,7 @@ Dreamy sunlit portrait of a young woman with long soft light-brown hair, delicat
 
 <a id="prompt-62"></a>
 
-#### No. 61: Autumn ferry-crossing period-fantasy heroine
+#### No. 62: Autumn ferry-crossing period-fantasy heroine
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4029,7 +4065,7 @@ Create a high-resolution vertical 9:16 Chinese period-fantasy portrait with the 
 
 <a id="prompt-65"></a>
 
-#### No. 62: Curved-concrete Japanese luxury fashion editorial
+#### No. 63: Curved-concrete Japanese luxury fashion editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4065,7 +4101,7 @@ A stunning young Japanese woman in a high-end fashion studio photoshoot, standin
 
 <a id="prompt-66"></a>
 
-#### No. 63: Retro shoujo portrait with tabby cat
+#### No. 64: Retro shoujo portrait with tabby cat
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4100,7 +4136,7 @@ Create an ultra-detailed retro Japanese anime illustration inspired by authentic
 
 <a id="prompt-67"></a>
 
-#### No. 64: Sunlit beach fashion portrait
+#### No. 65: Sunlit beach fashion portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4137,7 +4173,7 @@ In the background, there are wild green reeds, distant palm trees, and a clear b
 
 <a id="prompt-68"></a>
 
-#### No. 65: Retro red jersey street portrait
+#### No. 66: Retro red jersey street portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4179,7 +4215,7 @@ A GPT Image 2 street-fashion prompt for a confident portrait built around an ove
 
 <a id="prompt-75"></a>
 
-#### No. 66: Cozy plush companion studio portrait
+#### No. 67: Cozy plush companion studio portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4224,7 +4260,7 @@ Environment, architecture, landscape, concept-art, and worldbuilding prompts whe
 
 <a id="prompt-14"></a>
 
-#### No. 67: Candid smartphone lifestyle portrait
+#### No. 68: Candid smartphone lifestyle portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -4265,7 +4301,7 @@ Negative: anime, CGI, blur, bad anatomy, extra fingers, watermark, logo.
 
 <a id="prompt-24"></a>
 
-#### No. 68: Mall fashion smartphone scene
+#### No. 69: Mall fashion smartphone scene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4301,7 +4337,7 @@ Indian woman in a sky-blue pearl saree, matching blouse, elegant handbag, mehndi
 
 <a id="prompt-38"></a>
 
-#### No. 69: Candid smartphone lifestyle portrait 3
+#### No. 70: Candid smartphone lifestyle portrait 3
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -4341,7 +4377,7 @@ A cozy bedroom mirror selfie captured in natural daylight. A stylish young man s
 
 <a id="prompt-80"></a>
 
-#### No. 70: Ink-to-clay travel journal
+#### No. 71: Ink-to-clay travel journal
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4424,13 +4460,13 @@ Excludes: Passport stamps, globe, large typography, scrapbook clutter, fantasy p
 
 - [GPT Image 2 Prompt Library](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)
 <details>
-<summary>コミュニティ作者への謝辞 (35)</summary>
+<summary>コミュニティ作者への謝辞 (36)</summary>
 
-[@aileveraage](https://x.com/aileveraage) · [@aimikoda](https://x.com/aimikoda) · [@Aqsahere_](https://x.com/Aqsahere_) · [@auqibhabib](https://x.com/auqibhabib) · [@ChillaiKalan__](https://x.com/ChillaiKalan__) · [@Ciri_ai](https://x.com/Ciri_ai) · [@frametheory058](https://x.com/frametheory058) · [@HaniaAi12](https://x.com/HaniaAi12)<br>
-[@harboriis](https://x.com/harboriis) · [@iamrealsnow](https://x.com/iamrealsnow) · [@iamsofiaijaz](https://x.com/iamsofiaijaz) · [@john_my07](https://x.com/john_my07) · [@johnAGI168](https://x.com/johnAGI168) · [@Kashberg_0](https://x.com/Kashberg_0) · [@kingofdairyque](https://x.com/kingofdairyque) · [@LinusEkenstam](https://x.com/LinusEkenstam)<br>
-[@liyue_ai](https://x.com/liyue_ai) · [@mehvishs25](https://x.com/mehvishs25) · [@meng_dagg695](https://x.com/meng_dagg695) · [@MissDelulu9](https://x.com/MissDelulu9) · [@Naiknelofar788](https://x.com/Naiknelofar788) · [@ninaxmee](https://x.com/ninaxmee) · [@ou_zhen599](https://x.com/ou_zhen599) · [@Professor_134](https://x.com/Professor_134)<br>
-[@Sairah_0](https://x.com/Sairah_0) · [@saniaspeaks_](https://x.com/saniaspeaks_) · [@Shorelyn_](https://x.com/Shorelyn_) · [@Taaruk_](https://x.com/Taaruk_) · [@TaliaAariz](https://x.com/TaliaAariz) · [@vireonixx](https://x.com/vireonixx) · [@Xaroon_x](https://x.com/Xaroon_x) · [@ZaraIrahh](https://x.com/ZaraIrahh)<br>
-[Al-Shamus](https://x.com/im_shahid7) · [Anissa](https://x.com/SimplyAnnisa) · [Saul Goodman](https://x.com/Goodmanprotocol)
+[@aileveraage](https://x.com/aileveraage) · [@aimikoda](https://x.com/aimikoda) · [@Aqsahere_](https://x.com/Aqsahere_) · [@auqibhabib](https://x.com/auqibhabib) · [@ChillaiKalan__](https://x.com/ChillaiKalan__) · [@Ciri_ai](https://x.com/Ciri_ai) · [@codewithhajra](https://x.com/codewithhajra) · [@frametheory058](https://x.com/frametheory058)<br>
+[@HaniaAi12](https://x.com/HaniaAi12) · [@harboriis](https://x.com/harboriis) · [@iamrealsnow](https://x.com/iamrealsnow) · [@iamsofiaijaz](https://x.com/iamsofiaijaz) · [@john_my07](https://x.com/john_my07) · [@johnAGI168](https://x.com/johnAGI168) · [@Kashberg_0](https://x.com/Kashberg_0) · [@kingofdairyque](https://x.com/kingofdairyque)<br>
+[@LinusEkenstam](https://x.com/LinusEkenstam) · [@liyue_ai](https://x.com/liyue_ai) · [@mehvishs25](https://x.com/mehvishs25) · [@meng_dagg695](https://x.com/meng_dagg695) · [@MissDelulu9](https://x.com/MissDelulu9) · [@Naiknelofar788](https://x.com/Naiknelofar788) · [@ninaxmee](https://x.com/ninaxmee) · [@ou_zhen599](https://x.com/ou_zhen599)<br>
+[@Professor_134](https://x.com/Professor_134) · [@Sairah_0](https://x.com/Sairah_0) · [@saniaspeaks_](https://x.com/saniaspeaks_) · [@Shorelyn_](https://x.com/Shorelyn_) · [@Taaruk_](https://x.com/Taaruk_) · [@TaliaAariz](https://x.com/TaliaAariz) · [@vireonixx](https://x.com/vireonixx) · [@Xaroon_x](https://x.com/Xaroon_x)<br>
+[@ZaraIrahh](https://x.com/ZaraIrahh) · [Al-Shamus](https://x.com/im_shahid7) · [Anissa](https://x.com/SimplyAnnisa) · [Saul Goodman](https://x.com/Goodmanprotocol)
 
 </details>
 
@@ -4450,6 +4486,6 @@ Excludes: Passport stamps, globe, large typography, scrapbook clutter, fantasy p
 **[プロンプトを投稿](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[このリポジトリに Star](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>この README は自動生成されています。最終更新： 2026-07-22T13:43:52.736Z</sub>
+<sub>この README は自動生成されています。最終更新： 2026-07-22T14:40:25.676Z</sub>
 
 </div>

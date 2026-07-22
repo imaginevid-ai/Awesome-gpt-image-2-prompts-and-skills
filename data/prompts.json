@@ -5171,5 +5171,70 @@
         }
       ]
     }
+  },
+  {
+    "id": 83,
+    "model": "gpt-image-2",
+    "title": "Papercraft destination emerging from a travel tablet",
+    "description": "A vintage tourism poster that combines a central tablet diorama, regional landmarks, mixed-media ephemera, and editable destination typography.",
+    "content": "Create a premium vintage travel poster for [COUNTRY, CITY]. Place a large tablet at the center displaying a handcrafted 3D papercraft diorama of the destination. Let the scene emerge seamlessly from the screen into the physical poster, with layered paper-cut elements flowing outward. Include recognizable landmarks, streets, coast or mountains, flowers, local architecture, regional patterns, native plants, boats, wildlife, and signature foods in one balanced composition. Show a realistic hand holding a stylus and actively drawing the scene so the destination appears to come alive. Surround the tablet with passport stamps, postage stamps, travel sketches, handwritten arrows, maps, botanical drawings, illustrated local symbols, and torn-paper textures. At the top, set the exact destination name in large elegant serif type, followed by [TRAVEL TAGLINE] and a smaller subtitle. Warm aged parchment, visible paper fibers, soft contact shadows, layered papercraft depth, cinematic editorial lighting, luxury tourism-campaign finish, vertical poster, no garbled text or duplicated landmarks.",
+    "sourceLink": "https://x.com/codewithhajra/status/2079926840332878187",
+    "sourcePublishedAt": "2026-07-22T13:49:36.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HN1ib28XQAAOZLe.jpg",
+      "https://pbs.twimg.com/media/HN1ib3AWEAAKKnU.jpg"
+    ],
+    "author": {
+      "name": "@codewithhajra",
+      "link": "https://x.com/codewithhajra"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2079926840332878187",
+      "model_evidence": "gpt-image-2",
+      "collected_at": "2026-07-22",
+      "curation_note": "Passed explicit-model, reusable-prompt, canonical-source, inspectable-media, duplicate, and editorial-value review.",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "retweetCount": 0,
+      "replyCount": 5,
+      "likeCount": 6,
+      "quoteCount": 0,
+      "viewCount": 188,
+      "bookmarkCount": 1
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 17,
+          "title": "Infographic & Typography",
+          "slug": "infographic-typography"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 59,
+          "title": "Marketing Layout",
+          "slug": "marketing-layout"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 63,
+          "title": "Diagrams, Technical Art & Storyboards",
+          "slug": "diagrams-technical-storyboards"
+        }
+      ]
+    },
+    "sort": 83
   }
 ]
