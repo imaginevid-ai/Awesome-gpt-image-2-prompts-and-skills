@@ -101,7 +101,7 @@ Project links stay inside this repository; model capability sources point to off
 |--------|-------|
 | จำนวน prompt ทั้งหมด | **82** |
 | แนะนำ | **12** |
-| อัปเดตล่าสุด | **วันอังคารที่ 21 กรกฎาคม พ.ศ. 2569 เวลา 21 นาฬิกา 04 นาที 43 วินาที UTC** |
+| อัปเดตล่าสุด | **วันพุธที่ 22 กรกฎาคม พ.ศ. 2569 เวลา 2 นาฬิกา 21 นาที 36 วินาที UTC** |
 
 </div>
 
@@ -4450,6 +4450,6 @@ Excludes: Passport stamps, globe, large typography, scrapbook clutter, fantasy p
 **[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ประวัติ Star](https://github.com/imaginevid-ai/Awesome-gpt-image-2-prompts-and-skills)**
 
-<sub>อัปเดตล่าสุด: 2026-07-21T21:04:43.281Z</sub>
+<sub>อัปเดตล่าสุด: 2026-07-22T02:21:36.137Z</sub>
 
 </div>
